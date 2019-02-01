@@ -1,0 +1,1001 @@
+SubmissionId,LeadId,SubChannelId,SubChannelName,MarketingUnitId,MUName,TrackId,CampaignName,ClientRelationshipId,CountAgainstCap
+13489840,16907212,15,Paid Search,52,Generic,E8595F06-9BF6-4EE5-B8D7-31645A3ADCBE,ppc_google_ec_generic_generic_new_mpe,23,1
+13489843,16907214,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5345,1
+13489844,16907215,15,Paid Search,28,Head Terms,0C22F183-2722-4EC4-A837-B569230A9638,ppc_google_el_headterm_MPE,8714,1
+13489845,16907218,15,Paid Search,24,Degree,C3A08FC0-214F-420D-AFBC-8C5753F04301,ppc_google_ec_degree_cna_new_CM_mpe,5345,1
+13489848,16907222,15,Paid Search,169,General New Kaplan Allow,4B43882A-CAB1-4C34-A5CC-D979CC7301F9,ppc_google_ec_generic_general_new_certificate_mpe,2,1
+13489856,16907229,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8195,1
+13489878,16907255,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8657,1
+13489880,16907257,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5345,1
+13489883,16907265,5,Traditional Display,222,MediaAlpha,B8D12110-2F77-4AEB-8C71-929CA0295F2E,display_ec_mediaalpha_USA_TY_liberal_mpe,8195,1
+13489889,16907271,20,Clicks,168,Clicks,0E9CA843-2F38-4D8C-A053-74BED855AA8D,post.degree.today_CDN,8680,1
+13489917,16907295,5,Traditional Display,225,Quinst Premier,58137491-D15D-4D0A-AA04-1091C071EA53,display_ec_quinst_business_tier1_mpe,8568,1
+13489923,16907305,15,Paid Search,44,FinancialAidV2,5EE0751C-1843-480E-AADB-35334AA47A42,ppc_google_ec_momgrants_mpe,23,1
+13489926,16907306,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5876,1
+13489928,16907313,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,91,1
+13489935,16907319,15,Paid Search,44,FinancialAidV2,105A3AD7-A575-4B01-B47C-004417A44AAF,ppc_google_ec_newfinaid_federal_mpe_sm_RLSA,23,1
+13489970,16907361,15,Paid Search,24,Degree,502B0567-A045-4622-B1C4-8359B9066EA5,ppc_google_el_cnasearch_mpe,8712,1
+13489979,16907367,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,82,1
+13489978,16907368,15,Paid Search,24,Degree,C0FFAB20-4305-48B4-8DE3-2D037FFAA165,ppc_google_ec_degree_police_loantest,8712,1
+13489991,16907377,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,22,1
+13489992,16907379,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,82,1
+13490011,16907399,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490034,16907419,15,Paid Search,24,Degree,5EEED8CA-5074-4002-9318-775A56021794,ppc_google_ec_degree_computer_science,8593,1
+13490035,16907422,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,91,1
+13490036,16907423,15,Paid Search,166,FinancialAid Premier,486F085E-6CF4-4014-9E1C-767229FB12DF,ppc_google_ec_newfinaid_loan,23,1
+13490037,16907425,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490041,16907429,12,Online Partners,20,Job Board,148CDA62-B1A5-46C8-AA3A-E4739C704897,Brightfire Online,23,1
+13490044,16907430,5,Traditional Display,222,MediaAlpha,B8E07E56-C1C7-46EA-AB95-0B001A57AF67,display_emd_mediaalpha_DMS_NM_it_mpe,23,1
+13490054,16907440,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8657,1
+13490059,16907450,15,Paid Search,165,Degree Premier,C683A59C-AC57-4290-B873-55B92FCAD3D1,ppc_google_ec_degree_socialwork_sitelink_mpe,8657,1
+13490059,16907453,15,Paid Search,165,Degree Premier,C683A59C-AC57-4290-B873-55B92FCAD3D1,ppc_google_ec_degree_socialwork_sitelink_mpe,91,1
+13490069,16907461,7,GDN,63,Targeted Campus,D163A890-3D85-4DA5-B2BF-0B46C1592B1F,ppcd_gdn_ec_grants_campusonly_xverify_mpe,23,1
+13490070,16907463,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,82,1
+13490136,16907515,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8568,1
+13490141,16907520,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8568,1
+13490131,16907527,15,Paid Search,24,Degree,78A61FF9-ACCA-472A-9539-6E958BABF237,ppc_google_microsite_bno_lvn_mpe,5876,0
+13490163,16907540,15,Paid Search,44,FinancialAidV2,F523CC54-32EC-4569-B07F-13EB882F6EA2,ppc_google_ec_newfinaid_finaidtest_sitelink_mpe,23,1
+13490164,16907542,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8655,1
+13490164,16907544,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8568,1
+13490191,16907572,12,Online Partners,110,Best Online Universities,EFE21D11-3855-4B2B-9893-2A4C79C646BB,NursingAssistantGuides.com Directory - Jimmy Atkinson,155,0
+13490192,16907573,5,Traditional Display,74,Campus Explorer,97821C21-7DD0-44C0-9A8E-1865EC64882B,display_bano_campusexplorer_cna_mpe,23,1
+13490194,16907575,15,Paid Search,47,Religion,00C15642-E876-4026-B134-74E102457539,ppc_google_ce_degree_notexclusive_mpe,237,1
+13490199,16907582,15,Paid Search,24,Degree,C0FFAB20-4305-48B4-8DE3-2D037FFAA165,ppc_google_ec_degree_police_loantest,23,1
+13490208,16907591,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,23,1
+13490209,16907593,12,Online Partners,110,Best Online Universities,FCD7374A-2FEB-4D03-83C7-3DD10F4B5F49,logisticsdegree.elearners.com directory,8625,0
+13490213,16907598,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,2,1
+13490214,16907600,12,Online Partners,20,Job Board,148CDA62-B1A5-46C8-AA3A-E4739C704897,Brightfire Online,23,1
+13490215,16907601,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5186,1
+13490219,16907605,15,Paid Search,24,Degree,F87A5657-2561-47B7-A615-D0CD84C77A81,ppc_msn_ec_health-services_medical-assist,8409,1
+13490218,16907608,5,Traditional Display,206,QuinSt Tier 1,3AC05510-DE51-428D-8690-4D14517D5DF8,display_ec_quinst_General_CA_tier4_mpe,8712,1
+13490230,16907626,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8655,1
+13490239,16907635,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,22,1
+13490245,16907640,5,Traditional Display,78,Future Ads Premier,67B369E2-1193-439B-AC9B-E40709C3273F,display_el_futureads_display_textlink_subject_education,2,1
+13490251,16907642,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8714,1
+13490245,16907643,5,Traditional Display,78,Future Ads Premier,67B369E2-1193-439B-AC9B-E40709C3273F,display_el_futureads_display_textlink_subject_education,91,1
+13490245,16907644,5,Traditional Display,78,Future Ads Premier,67B369E2-1193-439B-AC9B-E40709C3273F,display_el_futureads_display_textlink_subject_education,8714,1
+13490257,16907645,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13490260,16907646,15,Paid Search,45,GradSchools,F6CB763F-40E9-47FA-9B9C-BE166D294ABA,ppc_google_gs_masters_leadscore_off_10.5.15,71,1
+13490260,16907647,15,Paid Search,45,GradSchools,F6CB763F-40E9-47FA-9B9C-BE166D294ABA,ppc_google_gs_masters_leadscore_off_10.5.15,235,1
+13490260,16907648,15,Paid Search,45,GradSchools,F6CB763F-40E9-47FA-9B9C-BE166D294ABA,ppc_google_gs_masters_leadscore_off_10.5.15,8649,1
+13490261,16907649,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,23,1
+13490255,16907651,15,Paid Search,169,General New Kaplan Allow,4B43882A-CAB1-4C34-A5CC-D979CC7301F9,ppc_google_ec_generic_general_new_certificate_mpe,8657,1
+13490261,16907653,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,91,1
+13490267,16907656,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,23,1
+13490270,16907662,5,Traditional Display,74,Campus Explorer,D3CBD8FD-1A3C-4BC3-8E16-B4197225D5C2,display_el_campusexplorer_nursing_inventorycheck_mpe,23,1
+13490023,16907409,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8568,1
+13490022,16907408,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,91,1
+13490022,16907407,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,2,1
+13490021,16907406,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13490019,16907405,20,Clicks,168,Clicks,0E9CA843-2F38-4D8C-A053-74BED855AA8D,post.degree.today_CDN,8680,1
+13490009,16907404,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8657,1
+13490013,16907403,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8409,1
+13490012,16907402,15,Paid Search,45,GradSchools,6855C7F1-6777-4A0C-AA8E-A509191A06AA,ppc_google_gs_graduate_userselect_test_mpe,2,1
+13490012,16907401,15,Paid Search,45,GradSchools,6855C7F1-6777-4A0C-AA8E-A509191A06AA,ppc_google_gs_graduate_userselect_test_mpe,23,1
+13490012,16907400,15,Paid Search,45,GradSchools,6855C7F1-6777-4A0C-AA8E-A509191A06AA,ppc_google_gs_graduate_userselect_test_mpe,8679,1
+13490008,16907397,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,23,1
+13490008,16907396,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,8714,1
+13490006,16907395,15,Paid Search,217,Exclusive Prime,49DC1BCD-0563-425B-A91F-FE84589968DE,ppc_google_microsite_FTC_exclusiveprime_PurdueGlobal_xverify,8657,1
+13490005,16907394,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8409,1
+13490004,16907393,15,Paid Search,44,FinancialAidV2,9ACCDD77-6F27-4903-B125-26C22A2CD3BE,ppc_google_ec_newfinaid_grants,5079,1
+13490003,16907392,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,8558,1
+13489976,16907391,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,144,1
+13489976,16907390,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,8712,1
+13490000,16907389,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,5876,1
+13489998,16907388,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,5876,1
+13489997,16907387,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8714,1
+13489997,16907386,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8712,1
+13489997,16907385,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8657,1
+13489997,16907384,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,22,1
+13489995,16907382,15,Paid Search,28,Head Terms,BC19E9DE-88E0-4489-8E71-ABB88A3473F1,ppc_google_ec_generic_ht2011_clickads,5876,1
+13489994,16907381,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13489993,16907380,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,82,1
+13489991,16907376,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8097,1
+13489990,16907375,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,82,1
+13489987,16907374,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13489977,16907372,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,144,1
+13489983,16907371,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5876,1
+13489981,16907370,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,8097,1
+13489976,16907365,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,23,1
+13489976,16907364,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,8195,1
+13489972,16907363,15,Paid Search,24,Degree,268686C0-3701-48F1-A466-4F0255F20F4E,ppc_google_ec_degree_csi_new_mpe,8657,1
+13489971,16907359,5,Traditional Display,222,MediaAlpha,2A499D47-F168-4937-AF15-C3759147AECC,display_ec_mediaalpha_DMS_NM_crimj_mpe,22,1
+13489971,16907358,5,Traditional Display,222,MediaAlpha,2A499D47-F168-4937-AF15-C3759147AECC,display_ec_mediaalpha_DMS_NM_crimj_mpe,8714,1
+13489967,16907355,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,2,1
+13489967,16907354,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,8657,1
+13489963,16907353,15,Paid Search,44,FinancialAidV2,52ED9317-B71F-41E2-95C2-2DBC17446886,ppc_google_ec_newfinaid_federal_RLSA,8409,1
+13489959,16907352,5,Traditional Display,222,MediaAlpha,B7382EC6-7ED2-42A6-8F91-21CEFA538DE6,display_ftc_mediaalpha_USA_TY_medbilling_mpe,8712,1
+13489959,16907351,5,Traditional Display,222,MediaAlpha,B7382EC6-7ED2-42A6-8F91-21CEFA538DE6,display_ftc_mediaalpha_USA_TY_medbilling_mpe,8195,1
+13489961,16907350,15,Paid Search,24,Degree,D1451C9C-14B7-49DE-A222-6061D38F4AD9,ppc_google_ec_degree_cna_sitelinkcna,82,1
+13489941,16907334,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5876,1
+13489939,16907333,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13489935,16907332,15,Paid Search,44,FinancialAidV2,105A3AD7-A575-4B01-B47C-004417A44AAF,ppc_google_ec_newfinaid_federal_mpe_sm_RLSA,8657,1
+13489935,16907331,15,Paid Search,44,FinancialAidV2,105A3AD7-A575-4B01-B47C-004417A44AAF,ppc_google_ec_newfinaid_federal_mpe_sm_RLSA,91,1
+13489936,16907330,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,33,1
+13489938,16907329,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13489937,16907328,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,91,1
+13489937,16907327,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8657,1
+13489937,16907326,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8714,1
+13489937,16907325,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,23,1
+13489936,16907324,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8712,1
+13489936,16907323,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8657,1
+13489936,16907322,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8714,1
+13489936,16907321,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,23,1
+13489934,16907318,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13489931,16907317,15,Paid Search,217,Exclusive Prime,49DC1BCD-0563-425B-A91F-FE84589968DE,ppc_google_microsite_FTC_exclusiveprime_PurdueGlobal_xverify,8657,1
+13489930,16907316,15,Paid Search,22,Branded,843F203E-2EEB-495C-B048-5C8E5822C151,ppc_google_ec_branded_newad_resp_mpe,91,1
+13489930,16907315,15,Paid Search,22,Branded,843F203E-2EEB-495C-B048-5C8E5822C151,ppc_google_ec_branded_newad_resp_mpe,23,1
+13489928,16907314,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8655,1
+13489929,16907311,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13489925,16907310,15,Paid Search,24,Degree,AB448737-E987-49A0-B0CA-6486C8ACA1BD,ppc_google_microsite_bno_lpn_mpe_test,91,1
+13489927,16907309,15,Paid Search,28,Head Terms,C665917F-32A9-4444-B5A9-8AC66F5D6E79,ppc_google_ec_generic_ht2011_noclicksads_oct2016,8657,0
+13489927,16907308,15,Paid Search,28,Head Terms,C665917F-32A9-4444-B5A9-8AC66F5D6E79,ppc_google_ec_generic_ht2011_noclicksads_oct2016,8714,0
+13489927,16907307,15,Paid Search,28,Head Terms,C665917F-32A9-4444-B5A9-8AC66F5D6E79,ppc_google_ec_generic_ht2011_noclicksads_oct2016,23,0
+13489922,16907303,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,23,1
+13489922,16907302,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,2,1
+13489921,16907301,12,Online Partners,19,Host And Post,3BA87002-2536-4265-8A5A-7376CB6CC7D3,Agree_Media_CECO,22,1
+13489917,16907300,5,Traditional Display,225,Quinst Premier,58137491-D15D-4D0A-AA04-1091C071EA53,display_ec_quinst_business_tier1_mpe,8714,1
+13489916,16907299,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8712,1
+13489920,16907298,15,Paid Search,24,Degree,78A61FF9-ACCA-472A-9539-6E958BABF237,ppc_google_microsite_bno_lvn_mpe,8568,1
+13489920,16907297,15,Paid Search,24,Degree,78A61FF9-ACCA-472A-9539-6E958BABF237,ppc_google_microsite_bno_lvn_mpe,22,1
+13489918,16907296,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,23,1
+13489917,16907293,5,Traditional Display,225,Quinst Premier,58137491-D15D-4D0A-AA04-1091C071EA53,display_ec_quinst_business_tier1_mpe,2,1
+13489917,16907292,5,Traditional Display,225,Quinst Premier,58137491-D15D-4D0A-AA04-1091C071EA53,display_ec_quinst_business_tier1_mpe,8679,1
+13489908,16907290,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13489902,16907288,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,8712,1
+13489902,16907287,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,8657,1
+13489905,16907286,5,Traditional Display,74,Campus Explorer,5632106E-2E6A-408F-AFC6-365DA40864F0,display_el_campusexplorer_it_mpe,8195,1
+13489904,16907285,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8409,1
+13489903,16907284,15,Paid Search,28,Head Terms,F891CF6A-941A-4CEE-A54E-78A529E6181F,ppc_google_ec_generic_domain_mpe,8657,1
+13489902,16907283,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,23,1
+13489902,16907282,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,2,1
+13489901,16907281,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8409,1
+13489900,16907280,15,Paid Search,165,Degree Premier,08E97284-23D8-46D6-A602-FBDD0C0CCC2A,ppc_google_el_social_work_search_mpe,8649,1
+13489897,16907278,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5345,1
+13489896,16907277,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13489894,16907276,15,Paid Search,45,GradSchools,C3416683-2BBF-43A1-B0B2-8C61DBE04C76,ppc_google_gs_masters_MPE,71,1
+13489893,16907275,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13489891,16907274,15,Paid Search,47,Religion,77EDB5EF-D80D-4B52-9B68-81C6C6139BE6,ppc_google_ce_ministry_notexclusive_mpe,8679,1
+13489891,16907273,15,Paid Search,47,Religion,77EDB5EF-D80D-4B52-9B68-81C6C6139BE6,ppc_google_ce_ministry_notexclusive_mpe,8714,1
+13489891,16907272,15,Paid Search,47,Religion,77EDB5EF-D80D-4B52-9B68-81C6C6139BE6,ppc_google_ce_ministry_notexclusive_mpe,2,1
+13489888,16907269,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13489888,16907268,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,5345,1
+13489887,16907267,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,5345,1
+13489885,16907266,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8649,1
+13489883,16907263,5,Traditional Display,222,MediaAlpha,B8D12110-2F77-4AEB-8C71-929CA0295F2E,display_ec_mediaalpha_USA_TY_liberal_mpe,8714,1
+13489883,16907262,5,Traditional Display,222,MediaAlpha,B8D12110-2F77-4AEB-8C71-929CA0295F2E,display_ec_mediaalpha_USA_TY_liberal_mpe,5345,1
+13489882,16907261,5,Traditional Display,225,Quinst Premier,1BEB55BD-32F8-4DA5-BB9B-31F7836F998A,display_ec_quinst_General_CA_tier1_mpe,8409,1
+13489878,16907254,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8714,1
+13489878,16907253,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,23,1
+13489877,16907252,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13489876,16907251,5,Traditional Display,74,Campus Explorer,DA93387D-E605-4F1A-841A-B7BFF75C1802,display_el_campusexplorer_medical_mpe,8714,1
+13489876,16907250,5,Traditional Display,74,Campus Explorer,DA93387D-E605-4F1A-841A-B7BFF75C1802,display_el_campusexplorer_medical_mpe,5345,1
+13489876,16907249,5,Traditional Display,74,Campus Explorer,DA93387D-E605-4F1A-841A-B7BFF75C1802,display_el_campusexplorer_medical_mpe,5876,1
+13489875,16907248,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,5345,1
+13489873,16907247,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13489870,16907245,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5345,1
+13489868,16907243,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5347,1
+13489867,16907242,15,Paid Search,169,General New Kaplan Allow,C26743B6-DF9D-4AEF-817A-0878CEDD64DF,ppc_google_el_generic_newpixel_mpe,2,1
+13489867,16907241,15,Paid Search,169,General New Kaplan Allow,C26743B6-DF9D-4AEF-817A-0878CEDD64DF,ppc_google_el_generic_newpixel_mpe,71,1
+13489867,16907240,15,Paid Search,169,General New Kaplan Allow,C26743B6-DF9D-4AEF-817A-0878CEDD64DF,ppc_google_el_generic_newpixel_mpe,7993,1
+13489866,16907239,15,Paid Search,166,FinancialAid Premier,AD06CFC7-C51C-4BDA-A44D-54394A407F4C,ppc_msn_ec_grants_momgrants,5345,1
+13489865,16907238,15,Paid Search,217,Exclusive Prime,49DC1BCD-0563-425B-A91F-FE84589968DE,ppc_google_microsite_FTC_exclusiveprime_PurdueGlobal_xverify,8657,1
+13489864,16907237,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,8195,1
+13489863,16907236,15,Paid Search,28,Head Terms,D86B9470-2957-4A05-A94C-E17EF0A6A1C6,ppc_google_ec_generic_headterm_customermatch,5345,1
+13489859,16907235,15,Paid Search,28,Head Terms,B691AB6F-EF45-4E6C-A906-35CF5A4E4A6B,ppc_google_ec_generic_htexactonly_mpe,8714,1
+13489859,16907234,15,Paid Search,28,Head Terms,B691AB6F-EF45-4E6C-A906-35CF5A4E4A6B,ppc_google_ec_generic_htexactonly_mpe,8729,1
+13489859,16907233,15,Paid Search,28,Head Terms,B691AB6F-EF45-4E6C-A906-35CF5A4E4A6B,ppc_google_ec_generic_htexactonly_mpe,23,1
+13489859,16907232,15,Paid Search,28,Head Terms,B691AB6F-EF45-4E6C-A906-35CF5A4E4A6B,ppc_google_ec_generic_htexactonly_mpe,8657,1
+13489858,16907231,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13489849,16907228,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,5345,1
+13489849,16907227,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8195,1
+13489849,16907226,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8714,1
+13489849,16907225,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,22,1
+13489848,16907224,15,Paid Search,169,General New Kaplan Allow,4B43882A-CAB1-4C34-A5CC-D979CC7301F9,ppc_google_ec_generic_general_new_certificate_mpe,5345,1
+13489848,16907223,15,Paid Search,169,General New Kaplan Allow,4B43882A-CAB1-4C34-A5CC-D979CC7301F9,ppc_google_ec_generic_general_new_certificate_mpe,22,1
+13489847,16907220,5,Traditional Display,74,Campus Explorer,D3CBD8FD-1A3C-4BC3-8E16-B4197225D5C2,display_el_campusexplorer_nursing_inventorycheck_mpe,5345,1
+13489847,16907219,5,Traditional Display,74,Campus Explorer,D3CBD8FD-1A3C-4BC3-8E16-B4197225D5C2,display_el_campusexplorer_nursing_inventorycheck_mpe,2,1
+13489844,16907216,15,Paid Search,28,Head Terms,0C22F183-2722-4EC4-A837-B569230A9638,ppc_google_el_headterm_MPE,5345,1
+13490346,16907752,15,Paid Search,82,GradLevel,84FF8497-2E66-43E9-ADB6-EB34DF11F374,ppc_google_ec_generic_doctorate,71,1
+13490345,16907751,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8714,1
+13490345,16907750,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,23,1
+13490345,16907749,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,91,1
+13490345,16907748,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8657,1
+13490342,16907746,15,Paid Search,44,FinancialAidV2,E48176C5-9A40-466C-B962-AC3C22B1335C,ppc_google_ec_newfinaid_fafsa_nochat,23,1
+13490339,16907745,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,91,1
+13490339,16907744,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,8657,1
+13490339,16907743,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,8649,1
+13490339,16907742,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,23,1
+13490337,16907741,12,Online Partners,20,Job Board,148CDA62-B1A5-46C8-AA3A-E4739C704897,Brightfire Online,23,1
+13490336,16907739,5,Traditional Display,74,Campus Explorer,DA93387D-E605-4F1A-841A-B7BFF75C1802,display_el_campusexplorer_medical_mpe,2,1
+13490335,16907738,5,Traditional Display,74,Campus Explorer,8F063A17-EA9E-49D8-BDFC-EC7225978D8E,display_emd_campusexplorer_nursing_nomatch_mpe,8409,1
+13490334,16907737,15,Paid Search,169,General New Kaplan Allow,4813618B-DC49-4E27-9BBF-9B77477736B1,ppc_google_el_General_main_MPE,8568,1
+13490304,16907702,15,Paid Search,52,Generic,338C6CB0-C924-4CBD-8E9B-84C9E5E52A2E,ppc_google_ec_generic_nativeamerican_mpe,8195,1
+13490303,16907701,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8593,1
+13490303,16907700,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8568,1
+13490303,16907699,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,2,1
+13490300,16907696,15,Paid Search,24,Degree,9A278010-0715-4574-A730-6F23DA1ED68F,ppc_google_ec_degree_education_teaching_match1plus,2,1
+13490295,16907693,5,Traditional Display,74,Campus Explorer,90E48FBC-95D3-423C-9160-A765CF59C191,display_ec_campusexplorer_crimj_mpe,8714,1
+13490295,16907691,5,Traditional Display,74,Campus Explorer,90E48FBC-95D3-423C-9160-A765CF59C191,display_ec_campusexplorer_crimj_mpe,22,1
+13490286,16907689,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,91,1
+13490291,16907686,15,Paid Search,52,Generic,9C499A38-87A6-4277-BBE0-787D6A2D0325,ppc_google_ec_generic_generic_new_mpe_sstest,23,1
+13490288,16907685,5,Traditional Display,222,MediaAlpha,64323C51-C0CD-4DAC-B37A-952276F9E8E1,display_ftc_mediaalpha_DMS_NM_general_mpe,22,1
+13490288,16907684,5,Traditional Display,222,MediaAlpha,64323C51-C0CD-4DAC-B37A-952276F9E8E1,display_ftc_mediaalpha_DMS_NM_general_mpe,8714,1
+13490288,16907683,5,Traditional Display,222,MediaAlpha,64323C51-C0CD-4DAC-B37A-952276F9E8E1,display_ftc_mediaalpha_DMS_NM_general_mpe,2,1
+13490286,16907682,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,22,1
+13490286,16907681,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,2,1
+13490286,16907680,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,5343,1
+13490283,16907679,15,Paid Search,24,Degree,B7E3AE7A-5FD5-4CD5-981F-6F36851D118A,ppc_google_ec_degree_accounting,8657,1
+13490285,16907678,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5123,1
+13490283,16907676,15,Paid Search,24,Degree,B7E3AE7A-5FD5-4CD5-981F-6F36851D118A,ppc_google_ec_degree_accounting,2,1
+13490283,16907675,15,Paid Search,24,Degree,B7E3AE7A-5FD5-4CD5-981F-6F36851D118A,ppc_google_ec_degree_accounting,23,1
+13490282,16907674,5,Traditional Display,74,Campus Explorer,A43FE495-297C-4623-A4CC-D7B58B13C706,display_sc_campusexplorer_medical_mpe,23,1
+13490278,16907673,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8657,1
+13490276,16907672,15,Paid Search,44,FinancialAidV2,9ACCDD77-6F27-4903-B125-26C22A2CD3BE,ppc_google_ec_newfinaid_grants,91,1
+13490273,16907671,5,Traditional Display,222,MediaAlpha,B0AA669E-AB8D-4DEF-85D9-63401FE8F3A9,display_emd_mediaalpha_USA_TY_general_mpe,8712,1
+13490273,16907670,5,Traditional Display,222,MediaAlpha,B0AA669E-AB8D-4DEF-85D9-63401FE8F3A9,display_emd_mediaalpha_USA_TY_general_mpe,91,1
+13490274,16907669,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,22,1
+13490274,16907668,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8649,1
+13490273,16907667,5,Traditional Display,222,MediaAlpha,B0AA669E-AB8D-4DEF-85D9-63401FE8F3A9,display_emd_mediaalpha_USA_TY_general_mpe,22,1
+13490273,16907666,5,Traditional Display,222,MediaAlpha,B0AA669E-AB8D-4DEF-85D9-63401FE8F3A9,display_emd_mediaalpha_USA_TY_general_mpe,8714,1
+13490271,16907665,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490270,16907664,5,Traditional Display,74,Campus Explorer,D3CBD8FD-1A3C-4BC3-8E16-B4197225D5C2,display_el_campusexplorer_nursing_inventorycheck_mpe,8568,1
+13490270,16907661,5,Traditional Display,74,Campus Explorer,D3CBD8FD-1A3C-4BC3-8E16-B4197225D5C2,display_el_campusexplorer_nursing_inventorycheck_mpe,2,1
+13490269,16907660,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8655,1
+13490269,16907659,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8712,1
+13490268,16907658,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490266,16907655,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,23,1
+13490266,16907654,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,71,1
+13490245,16907639,5,Traditional Display,78,Future Ads Premier,67B369E2-1193-439B-AC9B-E40709C3273F,display_el_futureads_display_textlink_subject_education,71,1
+13490244,16907638,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,22,1
+13490239,16907636,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,8712,1
+13490237,16907633,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8714,1
+13490237,16907632,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8655,1
+13490237,16907631,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8657,1
+13490235,16907630,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,8714,1
+13490235,16907629,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,2,1
+13490234,16907628,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8409,1
+13490233,16907627,15,Paid Search,44,FinancialAidV2,9ACCDD77-6F27-4903-B125-26C22A2CD3BE,ppc_google_ec_newfinaid_grants,8409,1
+13490221,16907606,15,Paid Search,166,FinancialAid Premier,AD06CFC7-C51C-4BDA-A44D-54394A407F4C,ppc_msn_ec_grants_momgrants,23,1
+13490218,16907603,5,Traditional Display,206,QuinSt Tier 1,3AC05510-DE51-428D-8690-4D14517D5DF8,display_ec_quinst_General_CA_tier4_mpe,22,1
+13490211,16907596,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,8657,1
+13490211,16907595,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,2,1
+13490210,16907594,5,Traditional Display,78,Future Ads Premier,B1F32B52-46BF-4610-A975-33C1A85CC26E,display_ec_futureads_display_lightbox_medicalassisting,8712,1
+13490207,16907590,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490206,16907589,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,23,1
+13490194,16907588,15,Paid Search,47,Religion,00C15642-E876-4026-B134-74E102457539,ppc_google_ce_degree_notexclusive_mpe,8714,1
+13490194,16907587,15,Paid Search,47,Religion,00C15642-E876-4026-B134-74E102457539,ppc_google_ce_degree_notexclusive_mpe,33,1
+13490194,16907586,15,Paid Search,47,Religion,00C15642-E876-4026-B134-74E102457539,ppc_google_ce_degree_notexclusive_mpe,8679,1
+13490202,16907585,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8657,1
+13490192,16907584,5,Traditional Display,74,Campus Explorer,97821C21-7DD0-44C0-9A8E-1865EC64882B,display_bano_campusexplorer_cna_mpe,8714,1
+13490199,16907581,15,Paid Search,24,Degree,C0FFAB20-4305-48B4-8DE3-2D037FFAA165,ppc_google_ec_degree_police_loantest,8655,1
+13490193,16907580,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8657,1
+13490196,16907579,20,Clicks,168,Clicks,C530057B-7D00-42AF-BF28-214C5A4369FF,post.degree.today_triad,8680,1
+13490183,16907577,15,Paid Search,24,Degree,0E1862D3-812D-4AFD-9E15-75BBD6A9E666,ppc_google_microsite_bno_lpn_mpe,91,1
+13490194,16907576,15,Paid Search,47,Religion,00C15642-E876-4026-B134-74E102457539,ppc_google_ce_degree_notexclusive_mpe,2,1
+13490186,16907570,5,Traditional Display,74,Campus Explorer,90E48FBC-95D3-423C-9160-A765CF59C191,display_ec_campusexplorer_crimj_mpe,23,1
+13490182,16907566,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,8649,1
+13490182,16907564,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,8568,1
+13490182,16907563,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,23,1
+13490179,16907562,15,Paid Search,45,GradSchools,39A55923-9B0D-4284-A30F-A849FCA515DA,ppc_google_gs_online_grad_sitelink,57,1
+13490179,16907561,15,Paid Search,45,GradSchools,39A55923-9B0D-4284-A30F-A849FCA515DA,ppc_google_gs_online_grad_sitelink,71,1
+13490179,16907560,15,Paid Search,45,GradSchools,39A55923-9B0D-4284-A30F-A849FCA515DA,ppc_google_gs_online_grad_sitelink,5404,1
+13490177,16907559,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,8697,1
+13490168,16907558,5,Traditional Display,222,MediaAlpha,CA09FF8E-CBB6-4279-B814-AE8E663F568E,display_ec_mediaalpha_DMS_TY_general_mpe,91,1
+13490174,16907557,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,71,1
+13490173,16907556,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,237,1
+13490172,16907555,15,Paid Search,44,FinancialAidV2,27F36443-6F58-4D4E-8053-855F9DB02D9F,ppc_google_ec_newfinaid_gfw_mpe,8568,1
+13490172,16907554,15,Paid Search,44,FinancialAidV2,27F36443-6F58-4D4E-8053-855F9DB02D9F,ppc_google_ec_newfinaid_gfw_mpe,8568,1
+13490172,16907553,15,Paid Search,44,FinancialAidV2,27F36443-6F58-4D4E-8053-855F9DB02D9F,ppc_google_ec_newfinaid_gfw_mpe,22,1
+13490170,16907551,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,71,1
+13490169,16907550,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8568,1
+13490168,16907549,5,Traditional Display,222,MediaAlpha,CA09FF8E-CBB6-4279-B814-AE8E663F568E,display_ec_mediaalpha_DMS_TY_general_mpe,8568,1
+13490168,16907548,5,Traditional Display,222,MediaAlpha,CA09FF8E-CBB6-4279-B814-AE8E663F568E,display_ec_mediaalpha_DMS_TY_general_mpe,8714,1
+13490167,16907547,15,Paid Search,24,Degree,4D2ED7FC-5001-4905-8CD9-AED44613CEF2,ppc_google_microsite_bno_lpn_test,8409,1
+13490166,16907546,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,8568,1
+13490164,16907545,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8568,1
+13490159,16907538,15,Paid Search,44,FinancialAidV2,5683C819-B03C-42B1-B7E8-F816EFAA633B,ppc_msn_ec_grants_momgrants_rsp_mpe,23,1
+13490158,16907537,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490157,16907536,12,Online Partners,111,SEO Partners,7615F496-CDCF-4016-B4FE-EFDA765CEED0,successdegrees.elearners.com directory,2,1
+13490155,16907534,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8655,1
+13490152,16907533,15,Paid Search,24,Degree,AB448737-E987-49A0-B0CA-6486C8ACA1BD,ppc_google_microsite_bno_lpn_mpe_test,5079,1
+13490148,16907531,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8568,1
+13490148,16907530,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,23,1
+13490146,16907529,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,8568,1
+13490146,16907526,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,22,1
+13490131,16907525,15,Paid Search,24,Degree,78A61FF9-ACCA-472A-9539-6E958BABF237,ppc_google_microsite_bno_lvn_mpe,8649,1
+13490146,16907524,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,2,1
+13490141,16907523,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,91,1
+13490139,16907522,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8712,1
+13490142,16907521,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8593,1
+13490141,16907518,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,23,1
+13490140,16907517,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5123,1
+13490136,16907513,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13490123,16907512,15,Paid Search,82,GradLevel,BB1CC5B8-A8A0-459D-858A-94B731BB06C2,ppc_google_ec_generic_doctorate_mpe,4004,1
+13490134,16907510,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5186,1
+13490133,16907509,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,2,1
+13490133,16907508,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,71,1
+13490133,16907507,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,5404,1
+13490131,16907506,15,Paid Search,24,Degree,78A61FF9-ACCA-472A-9539-6E958BABF237,ppc_google_microsite_bno_lvn_mpe,22,1
+13490131,16907505,15,Paid Search,24,Degree,78A61FF9-ACCA-472A-9539-6E958BABF237,ppc_google_microsite_bno_lvn_mpe,2,1
+13490129,16907504,5,Traditional Display,222,MediaAlpha,DDDA0298-D01F-489D-9B23-B7D13FF4C6F3,display_emd_mediaalpha_DMS_NM_general_mpe,91,1
+13490128,16907503,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13490127,16907502,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5876,1
+13490126,16907501,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,8689,1
+13490126,16907500,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,2,1
+13490125,16907499,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5286,1
+13490124,16907498,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490123,16907497,15,Paid Search,82,GradLevel,BB1CC5B8-A8A0-459D-858A-94B731BB06C2,ppc_google_ec_generic_doctorate_mpe,71,1
+13490120,16907495,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8712,1
+13490119,16907493,15,Paid Search,24,Degree,78A61FF9-ACCA-472A-9539-6E958BABF237,ppc_google_microsite_bno_lvn_mpe,8409,1
+13490115,16907491,11,Internal Email,41,Internal Email,5A471F96-8C38-44AE-B950-88AEAA038374,IEM_EC_PostUp_Limbo_Userselection,8714,1
+13490115,16907490,11,Internal Email,41,Internal Email,5A471F96-8C38-44AE-B950-88AEAA038374,IEM_EC_PostUp_Limbo_Userselection,2,1
+13490115,16907489,11,Internal Email,41,Internal Email,5A471F96-8C38-44AE-B950-88AEAA038374,IEM_EC_PostUp_Limbo_Userselection,22,1
+13490114,16907488,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,8649,1
+13490114,16907487,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,235,1
+13490114,16907486,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,7993,1
+13490101,16907483,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,2,1
+13490109,16907482,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,8568,1
+13490109,16907481,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,22,1
+13490104,16907478,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5876,1
+13490103,16907477,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490102,16907476,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,23,1
+13490098,16907475,5,Traditional Display,74,Campus Explorer,918C5A46-ED80-430B-B46E-11163E0D09AC,display_el_campusexplorer_education_mpe,8657,1
+13490100,16907474,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,23,1
+13490097,16907473,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13490093,16907472,5,Traditional Display,5,Future Ads PPV,765F2149-FA12-444F-B9F6-F05485B6DEB0,display_ec_futureads_display_crimj,82,1
+13490091,16907470,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,82,1
+13490090,16907469,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,71,1
+13490083,16907468,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490082,16907467,12,Online Partners,20,Job Board,148CDA62-B1A5-46C8-AA3A-E4739C704897,Brightfire Online,23,1
+13490073,16907466,15,Paid Search,44,FinancialAidV2,FC911E35-7834-49D7-A5F2-B35D671603B6,ppc_google_ec_newfinaid_federal_nochat,23,1
+13490072,16907465,15,Paid Search,26,Financial Aid,76781747-F93A-4EF2-9A44-158FB0F84B85,ppc_google_ec_newfinaid_financialaid_test_mpe,23,1
+13490060,16907460,15,Paid Search,24,Degree,2097753D-7E87-40EF-ACA0-B07A993BF854,ppc_google_ec_degree_healthservices_surgical_loan,8712,1
+13490066,16907459,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,2,1
+13490066,16907458,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,71,1
+13490065,16907457,5,Traditional Display,74,Campus Explorer,6B2FC670-49F1-47BA-9562-9FAF0C52415B,display_sc_campusexplorer_nursing_inventorycheck_mpe,23,1
+13490065,16907456,5,Traditional Display,74,Campus Explorer,6B2FC670-49F1-47BA-9562-9FAF0C52415B,display_sc_campusexplorer_nursing_inventorycheck_mpe,2,1
+13490064,16907455,11,Internal Email,41,Internal Email,6E11C238-3011-484B-8FB3-79C00AB0C642,IEM_EC_PostUp_RT,8409,1
+13490061,16907454,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490059,16907451,15,Paid Search,165,Degree Premier,C683A59C-AC57-4290-B873-55B92FCAD3D1,ppc_google_ec_degree_socialwork_sitelink_mpe,22,1
+13490058,16907448,5,Traditional Display,222,MediaAlpha,16DFFC43-83A5-41AD-9E7B-3D2835488EE3,display_emd_mediaalpha_DMS_NM_business_mpe,8714,1
+13490058,16907447,5,Traditional Display,222,MediaAlpha,16DFFC43-83A5-41AD-9E7B-3D2835488EE3,display_emd_mediaalpha_DMS_NM_business_mpe,23,1
+13490057,16907446,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13490056,16907445,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,5876,1
+13490053,16907444,5,Traditional Display,225,Quinst Premier,48CCCDB0-87A7-42D0-BFD5-95042A816AA2,display_ec_quinst_General_CA_tier1,8712,1
+13490053,16907443,5,Traditional Display,225,Quinst Premier,48CCCDB0-87A7-42D0-BFD5-95042A816AA2,display_ec_quinst_General_CA_tier1,8195,1
+13490055,16907442,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,23,1
+13490055,16907441,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,71,1
+13490052,16907438,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8655,1
+13490051,16907437,5,Traditional Display,5,Future Ads PPV,50406C45-0673-47F8-B3AB-C1717BAD0593,display_ec_futureads_display_bird,8714,1
+13490051,16907436,5,Traditional Display,5,Future Ads PPV,50406C45-0673-47F8-B3AB-C1717BAD0593,display_ec_futureads_display_bird,23,1
+13490051,16907435,5,Traditional Display,5,Future Ads PPV,50406C45-0673-47F8-B3AB-C1717BAD0593,display_ec_futureads_display_bird,8679,1
+13490050,16907434,15,Paid Search,28,Head Terms,A97392AA-951C-4619-8987-EF265B03B08E,ppc_google_ec_generic_ht2011_main_s4,91,1
+13490050,16907433,15,Paid Search,28,Head Terms,A97392AA-951C-4619-8987-EF265B03B08E,ppc_google_ec_generic_ht2011_main_s4,8657,1
+13490050,16907432,15,Paid Search,28,Head Terms,A97392AA-951C-4619-8987-EF265B03B08E,ppc_google_ec_generic_ht2011_main_s4,22,1
+13490050,16907431,15,Paid Search,28,Head Terms,A97392AA-951C-4619-8987-EF265B03B08E,ppc_google_ec_generic_ht2011_main_s4,2,1
+13490039,16907427,7,GDN,160,Remarketing Headterm,472ACF78-FDAF-4A1F-A60B-A9909E59FE08,ppcd_gdn_ec_remarketing,23,1
+13490035,16907420,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,23,1
+13490034,16907417,15,Paid Search,24,Degree,5EEED8CA-5074-4002-9318-775A56021794,ppc_google_ec_degree_computer_science,8195,1
+13490029,16907415,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8649,1
+13490029,16907414,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,22,1
+13490029,16907413,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,71,1
+13490025,16907411,12,Online Partners,110,Best Online Universities,EFE21D11-3855-4B2B-9893-2A4C79C646BB,NursingAssistantGuides.com Directory - Jimmy Atkinson,8712,1
+13490024,16907410,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,8409,1
+13489956,16907347,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,2,1
+13489956,16907346,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,8657,1
+13489956,16907345,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,22,1
+13489954,16907344,15,Paid Search,217,Exclusive Prime,49DC1BCD-0563-425B-A91F-FE84589968DE,ppc_google_microsite_FTC_exclusiveprime_PurdueGlobal_xverify,8657,1
+13489952,16907343,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8712,1
+13489951,16907342,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13489949,16907341,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8409,1
+13489948,16907339,5,Traditional Display,222,MediaAlpha,C1FDC100-B95B-4636-B0D2-01DC6F0C5887,display_emd_mediaalpha_DMS_NM_healthcare_elder_mpe,8714,1
+13489947,16907338,15,Paid Search,52,Generic,59BA958E-63BC-4217-AF9D-F563A4EE2CC8,ppc_google_ec_generic_phoTES,2,1
+13489947,16907337,15,Paid Search,52,Generic,59BA958E-63BC-4217-AF9D-F563A4EE2CC8,ppc_google_ec_generic_phoTES,23,1
+13489946,16907336,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8655,1
+13490372,16907786,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,2707,1
+13490372,16907785,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,111,1
+13490367,16907784,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,91,1
+13490372,16907783,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,235,1
+13490372,16907782,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,57,1
+13490368,16907778,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8644,1
+13490367,16907776,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,2,1
+13490367,16907775,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,23,1
+13490365,16907773,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8097,1
+13490364,16907771,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,22,1
+13490361,16907770,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,91,1
+13490359,16907769,15,Paid Search,47,Religion,30772EF4-DEE1-4460-BEF8-6A3AF217906F,ppc_msn_ce_ministry_notexclusive,2,1
+13490362,16907768,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13490359,16907767,15,Paid Search,47,Religion,30772EF4-DEE1-4460-BEF8-6A3AF217906F,ppc_msn_ce_ministry_notexclusive,8714,1
+13490359,16907766,15,Paid Search,47,Religion,30772EF4-DEE1-4460-BEF8-6A3AF217906F,ppc_msn_ce_ministry_notexclusive,8679,1
+13490359,16907765,15,Paid Search,47,Religion,30772EF4-DEE1-4460-BEF8-6A3AF217906F,ppc_msn_ce_ministry_notexclusive,33,1
+13490358,16907764,5,Traditional Display,222,MediaAlpha,40821553-752E-429D-B90E-BF692A5073D5,display_emd_mediaalpha_USA_TY_healthcare_mpe,23,1
+13490358,16907763,5,Traditional Display,222,MediaAlpha,40821553-752E-429D-B90E-BF692A5073D5,display_emd_mediaalpha_USA_TY_healthcare_mpe,8714,1
+13490356,16907762,15,Paid Search,165,Degree Premier,CDB056EE-367E-4EA3-A15B-DDBE4D0A5577,ppc_google_ec_degree_socialwork_match1plus_mpe,91,1
+13490356,16907760,15,Paid Search,165,Degree Premier,CDB056EE-367E-4EA3-A15B-DDBE4D0A5577,ppc_google_ec_degree_socialwork_match1plus_mpe,8657,1
+13490355,16907758,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,22,1
+13490354,16907757,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8644,1
+13490350,16907756,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,91,1
+13490351,16907755,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,23,1
+13490343,16907754,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8657,1
+13490348,16907753,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490333,16907735,15,Paid Search,24,Degree,502B0567-A045-4622-B1C4-8359B9066EA5,ppc_google_el_cnasearch_mpe,23,1
+13490331,16907734,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,91,1
+13490332,16907733,15,Paid Search,24,Degree,0E1862D3-812D-4AFD-9E15-75BBD6A9E666,ppc_google_microsite_bno_lpn_mpe,22,1
+13490331,16907732,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,23,1
+13490331,16907731,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,71,1
+13490331,16907730,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,2,1
+13490330,16907728,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,23,1
+13490329,16907727,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8644,1
+13490327,16907726,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13490322,16907724,15,Paid Search,24,Degree,2A881E68-6E48-4E7E-9117-9A0C89AEE1C9,ppc_google_ec_degree_rntobsn_mpe,8629,1
+13490320,16907723,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13490317,16907722,15,Paid Search,24,Degree,C0FFAB20-4305-48B4-8DE3-2D037FFAA165,ppc_google_ec_degree_police_loantest,91,1
+13490317,16907721,15,Paid Search,24,Degree,C0FFAB20-4305-48B4-8DE3-2D037FFAA165,ppc_google_ec_degree_police_loantest,8593,1
+13490317,16907720,15,Paid Search,24,Degree,C0FFAB20-4305-48B4-8DE3-2D037FFAA165,ppc_google_ec_degree_police_loantest,8655,1
+13490315,16907718,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,8714,1
+13490315,16907717,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,8649,1
+13490315,16907716,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,22,1
+13490315,16907715,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,2,1
+13490313,16907714,5,Traditional Display,74,Campus Explorer,DA93387D-E605-4F1A-841A-B7BFF75C1802,display_el_campusexplorer_medical_mpe,23,1
+13490313,16907713,5,Traditional Display,74,Campus Explorer,DA93387D-E605-4F1A-841A-B7BFF75C1802,display_el_campusexplorer_medical_mpe,2,1
+13490307,16907712,5,Traditional Display,225,Quinst Premier,ED119B85-3A59-4FC9-A0CB-2F76E0703AA3,display_ec_quinst_General_CA_tier2_mpe,8195,1
+13490312,16907711,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8409,1
+13490309,16907709,15,Paid Search,28,Head Terms,FFDFD031-155C-4845-B078-46AB9FFA7927,ppc_google_microsite_FTC_exclusiveprime_smartmatch,8655,1
+13490309,16907708,15,Paid Search,28,Head Terms,FFDFD031-155C-4845-B078-46AB9FFA7927,ppc_google_microsite_FTC_exclusiveprime_smartmatch,8657,1
+13490309,16907707,15,Paid Search,28,Head Terms,FFDFD031-155C-4845-B078-46AB9FFA7927,ppc_google_microsite_FTC_exclusiveprime_smartmatch,2,1
+13490309,16907706,15,Paid Search,28,Head Terms,FFDFD031-155C-4845-B078-46AB9FFA7927,ppc_google_microsite_FTC_exclusiveprime_smartmatch,4004,1
+13490305,16907705,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8657,1
+13490307,16907704,5,Traditional Display,225,Quinst Premier,ED119B85-3A59-4FC9-A0CB-2F76E0703AA3,display_ec_quinst_General_CA_tier2_mpe,8568,1
+13490231,16907624,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8655,1
+13490229,16907623,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,23,1
+13490228,16907622,20,Clicks,168,Clicks,C530057B-7D00-42AF-BF28-214C5A4369FF,post.degree.today_triad,8680,1
+13490223,16907621,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,8195,1
+13490226,16907620,20,Clicks,168,Clicks,C530057B-7D00-42AF-BF28-214C5A4369FF,post.degree.today_triad,8680,1
+13490224,16907619,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,100,1
+13490225,16907618,15,Paid Search,28,Head Terms,0C22F183-2722-4EC4-A837-B569230A9638,ppc_google_el_headterm_MPE,91,1
+13490225,16907617,15,Paid Search,28,Head Terms,0C22F183-2722-4EC4-A837-B569230A9638,ppc_google_el_headterm_MPE,8655,1
+13490225,16907616,15,Paid Search,28,Head Terms,0C22F183-2722-4EC4-A837-B569230A9638,ppc_google_el_headterm_MPE,23,1
+13490225,16907615,15,Paid Search,28,Head Terms,0C22F183-2722-4EC4-A837-B569230A9638,ppc_google_el_headterm_MPE,8657,1
+13490222,16907614,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8195,1
+13490224,16907613,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8657,1
+13490220,16907612,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,82,1
+13490223,16907611,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,23,1
+13490223,16907610,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,2,1
+13490222,16907609,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8655,1
+13490376,16907788,5,Traditional Display,74,Campus Explorer,DA8FB2F5-0731-4782-8600-8EAE0E55EF60,display_emd_campusexplorer_nursing_inventorycheck_mpe,23,1
+13490376,16907789,5,Traditional Display,74,Campus Explorer,DA8FB2F5-0731-4782-8600-8EAE0E55EF60,display_emd_campusexplorer_nursing_inventorycheck_mpe,2,1
+13490378,16907791,5,Traditional Display,222,MediaAlpha,F6FC8CBE-3B61-4EAA-8309-E43C55AC300A,display_emd_mediaalpha_DMS_NM_business_elder_mpe,22,1
+13490378,16907792,5,Traditional Display,222,MediaAlpha,F6FC8CBE-3B61-4EAA-8309-E43C55AC300A,display_emd_mediaalpha_DMS_NM_business_elder_mpe,8714,1
+13490379,16907794,15,Paid Search,45,GradSchools,459C4E36-1DF3-4B8E-B347-0376DC5BCEFD,ppc_google_gs_masters_partner_sitelink,71,1
+13490379,16907795,15,Paid Search,45,GradSchools,459C4E36-1DF3-4B8E-B347-0376DC5BCEFD,ppc_google_gs_masters_partner_sitelink,2,1
+13490380,16907796,7,GDN,63,Targeted Campus,30360ADE-1615-442B-A9B5-0189DE5DC878,ppcd_gdn_ec_grants_campusonly,23,1
+13490373,16907797,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,82,1
+13490382,16907798,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8409,1
+13490378,16907799,5,Traditional Display,222,MediaAlpha,F6FC8CBE-3B61-4EAA-8309-E43C55AC300A,display_emd_mediaalpha_DMS_NM_business_elder_mpe,8195,1
+13490385,16907801,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,23,1
+13490387,16907802,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490388,16907803,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,22,1
+13490389,16907804,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8409,1
+13490393,16907805,5,Traditional Display,74,Campus Explorer,DA8FB2F5-0731-4782-8600-8EAE0E55EF60,display_emd_campusexplorer_nursing_inventorycheck_mpe,8524,0
+13490395,16907806,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,23,1
+13490400,16907808,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,22,1
+13490400,16907810,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8568,1
+13490400,16907811,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8568,1
+13490401,16907812,5,Traditional Display,222,MediaAlpha,71630B4E-0173-4669-AEB8-0040FCC98747,display_ftc_mediaalpha_DMS_TY_business,8505,1
+13490406,16907813,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,2,1
+13490406,16907814,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8657,1
+13490406,16907815,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8655,1
+13490406,16907816,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,91,1
+13490406,16907817,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8524,1
+13490406,16907818,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,2707,1
+13490406,16907819,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8679,1
+13490411,16907820,15,Paid Search,24,Degree,D503DE4F-BCE6-44E5-A6DA-46D0AC650D2A,ppc_google_ec_degree_cna_new_loan_test,22,1
+13490411,16907822,15,Paid Search,24,Degree,D503DE4F-BCE6-44E5-A6DA-46D0AC650D2A,ppc_google_ec_degree_cna_new_loan_test,8568,1
+13490411,16907823,15,Paid Search,24,Degree,D503DE4F-BCE6-44E5-A6DA-46D0AC650D2A,ppc_google_ec_degree_cna_new_loan_test,8568,1
+13490412,16907824,20,Clicks,168,Clicks,C530057B-7D00-42AF-BF28-214C5A4369FF,post.degree.today_triad,8680,1
+13490415,16907825,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13490413,16907826,15,Paid Search,169,General New Kaplan Allow,4B43882A-CAB1-4C34-A5CC-D979CC7301F9,ppc_google_ec_generic_general_new_certificate_mpe,8657,1
+13490417,16907827,15,Paid Search,24,Degree,953324B4-7555-4A3D-8C8D-3DC32FED0D3D,ppc_google_ec_degree_education_teaching_match1plus_mpe,8655,1
+13490419,16907829,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,8409,1
+13490421,16907830,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490420,16907831,15,Paid Search,166,FinancialAid Premier,2606EC44-D752-4D62-9B99-9340407043C8,ppc_google_ec_newfinaid_federal_sitelink_nochat_RLSA,91,1
+13490420,16907832,15,Paid Search,166,FinancialAid Premier,2606EC44-D752-4D62-9B99-9340407043C8,ppc_google_ec_newfinaid_federal_sitelink_nochat_RLSA,8655,1
+13490424,16907833,5,Traditional Display,5,Future Ads PPV,F1D876E1-52D5-4AF6-ABC7-5A1F1B95D1BB,display_ec_futureads_display_low_drtv,23,1
+13490429,16907834,15,Paid Search,53,General New,34224615-7769-4E57-A030-6F994D91C371,ppc_msn_ec_generic_generic_degree,22,1
+13490433,16907836,15,Paid Search,24,Degree,D503DE4F-BCE6-44E5-A6DA-46D0AC650D2A,ppc_google_ec_degree_cna_new_loan_test,8409,1
+13490434,16907837,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490435,16907838,15,Paid Search,44,FinancialAidV2,9C54CC13-1AFB-481A-ACBE-9F4690927406,ppc_google_ec_singlemomgrant_mpe,23,1
+13490436,16907839,12,Online Partners,214,XYZ Partner,4210290D-98E1-4510-BA10-07516D379FBC,NoGre.com - XYZ,23,0
+13490438,16907840,15,Paid Search,45,GradSchools,6E4C7963-190F-4F9D-BDC5-5A96F8AD686F,ppc_google_gs_psychology_sitelink_mpe,5404,1
+13490438,16907841,15,Paid Search,45,GradSchools,6E4C7963-190F-4F9D-BDC5-5A96F8AD686F,ppc_google_gs_psychology_sitelink_mpe,8487,1
+13490438,16907842,15,Paid Search,45,GradSchools,6E4C7963-190F-4F9D-BDC5-5A96F8AD686F,ppc_google_gs_psychology_sitelink_mpe,71,1
+13490442,16907843,5,Traditional Display,74,Campus Explorer,B1FD4E83-F29B-47B9-8A00-C9941E89302A,display_emd_campusexplorer_nursing_inventorycheck,2,1
+13490442,16907844,5,Traditional Display,74,Campus Explorer,B1FD4E83-F29B-47B9-8A00-C9941E89302A,display_emd_campusexplorer_nursing_inventorycheck,23,1
+13490443,16907846,15,Paid Search,24,Degree,0E1862D3-812D-4AFD-9E15-75BBD6A9E666,ppc_google_microsite_bno_lpn_mpe,8568,1
+13490448,16907848,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8655,1
+13490449,16907851,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,8714,1
+13490452,16907853,5,Traditional Display,78,Future Ads Premier,35B7943B-92B5-496B-B0F8-340D4AF3C548,display_ec_futureads_display_onlinecollege,8692,1
+13490452,16907854,5,Traditional Display,78,Future Ads Premier,35B7943B-92B5-496B-B0F8-340D4AF3C548,display_ec_futureads_display_onlinecollege,8657,1
+13490452,16907855,5,Traditional Display,78,Future Ads Premier,35B7943B-92B5-496B-B0F8-340D4AF3C548,display_ec_futureads_display_onlinecollege,8655,1
+13490447,16907856,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8195,1
+13490460,16907861,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,23,1
+13490463,16907863,5,Traditional Display,222,MediaAlpha,40821553-752E-429D-B90E-BF692A5073D5,display_emd_mediaalpha_USA_TY_healthcare_mpe,2,1
+13490463,16907864,5,Traditional Display,222,MediaAlpha,40821553-752E-429D-B90E-BF692A5073D5,display_emd_mediaalpha_USA_TY_healthcare_mpe,8714,1
+13490468,16907867,15,Paid Search,24,Degree,AB448737-E987-49A0-B0CA-6486C8ACA1BD,ppc_google_microsite_bno_lpn_mpe_test,8409,1
+13490471,16907872,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8657,1
+13490473,16907873,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,2,1
+13490475,16907874,5,Traditional Display,78,Future Ads Premier,8DDE00CD-4B2A-4068-A98C-B8623FAB712D,display_ec_futureads_display_lightbox_2018,91,1
+13490475,16907875,5,Traditional Display,78,Future Ads Premier,8DDE00CD-4B2A-4068-A98C-B8623FAB712D,display_ec_futureads_display_lightbox_2018,8714,1
+13490476,16907876,15,Paid Search,44,FinancialAidV2,9ACCDD77-6F27-4903-B125-26C22A2CD3BE,ppc_google_ec_newfinaid_grants,8409,1
+13490478,16907878,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8409,1
+13490479,16907879,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,144,1
+13490480,16907880,12,Online Partners,19,Host And Post,3BA87002-2536-4265-8A5A-7376CB6CC7D3,Agree_Media_CECO,23,1
+13490482,16907882,15,Paid Search,24,Degree,0E1862D3-812D-4AFD-9E15-75BBD6A9E666,ppc_google_microsite_bno_lpn_mpe,2,1
+13490482,16907883,15,Paid Search,24,Degree,0E1862D3-812D-4AFD-9E15-75BBD6A9E666,ppc_google_microsite_bno_lpn_mpe,23,1
+13490484,16907885,15,Paid Search,217,Exclusive Prime,B5468621-232D-452C-8809-D34A9C99DCC7,ppc_google_microsite_FTC_exclusiveprime_PurdueGlobal,8657,1
+13490485,16907889,5,Traditional Display,74,Campus Explorer,3F89C120-345A-4944-AD5B-2A451AE54B47,display_el_campusexplorer_healthcare_ca_mpe,8409,1
+13490487,16907890,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,8429,1
+13490488,16907891,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8409,1
+13490489,16907892,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,71,1
+13490489,16907893,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,2,1
+13490489,16907894,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,8547,1
+13490542,16907944,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,23,1
+13490542,16907946,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8593,1
+13490543,16907947,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,22,1
+13490543,16907949,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,8593,1
+13490544,16907950,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,144,1
+13490543,16907951,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,91,1
+13490548,16907953,7,GDN,8,Financial Aid,F2BBC82E-5732-414F-99CC-84FC5AE0E770,ppcd_gdn_ec_finaid_rsp_mpe,8697,1
+13490549,16907954,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,23,1
+13490549,16907955,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,8657,1
+13490549,16907956,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,8655,1
+13490551,16907958,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490554,16907959,15,Paid Search,24,Degree,268686C0-3701-48F1-A466-4F0255F20F4E,ppc_google_ec_degree_csi_new_mpe,8409,1
+13490556,16907961,5,Traditional Display,74,Campus Explorer,A43FE495-297C-4623-A4CC-D7B58B13C706,display_sc_campusexplorer_medical_mpe,8679,1
+13490486,16907896,5,Traditional Display,225,Quinst Premier,2871C2EB-8A4B-46DC-ABAB-7E59F57EE32F,display_bano_quinst_cna_tier1_mpe,8195,1
+13490486,16907897,5,Traditional Display,225,Quinst Premier,2871C2EB-8A4B-46DC-ABAB-7E59F57EE32F,display_bano_quinst_cna_tier1_mpe,91,1
+13490491,16907898,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13490494,16907899,12,Online Partners,19,Host And Post,3BA87002-2536-4265-8A5A-7376CB6CC7D3,Agree_Media_CECO,23,1
+13490496,16907900,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,22,1
+13490496,16907901,5,Traditional Display,74,Campus Explorer,5891F0C4-2979-4E38-B27F-388C76E0A6B4,display_ec_campusexplorer_medical_mpe,2,1
+13490497,16907903,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,23,1
+13490499,16907906,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13490497,16907909,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,91,1
+13490504,16907911,5,Traditional Display,222,MediaAlpha,286B6900-CB3C-4439-802B-439F66B089A4,display_emd_mediaalpha_USA_TY_healthcare_elder_mpe,8714,1
+13490504,16907912,5,Traditional Display,222,MediaAlpha,286B6900-CB3C-4439-802B-439F66B089A4,display_emd_mediaalpha_USA_TY_healthcare_elder_mpe,22,1
+13490505,16907913,15,Paid Search,169,General New Kaplan Allow,4813618B-DC49-4E27-9BBF-9B77477736B1,ppc_google_el_General_main_MPE,2,1
+13490505,16907914,15,Paid Search,169,General New Kaplan Allow,4813618B-DC49-4E27-9BBF-9B77477736B1,ppc_google_el_General_main_MPE,23,1
+13490506,16907916,15,Paid Search,82,GradLevel,47029E6A-5602-48E2-AF2B-0B7551ED62CD,ppc_google_ec_generic_graduate_match1plus_mpe,2,1
+13490506,16907917,15,Paid Search,82,GradLevel,47029E6A-5602-48E2-AF2B-0B7551ED62CD,ppc_google_ec_generic_graduate_match1plus_mpe,22,1
+13490512,16907919,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13490514,16907921,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,22,1
+13490506,16907923,15,Paid Search,82,GradLevel,47029E6A-5602-48E2-AF2B-0B7551ED62CD,ppc_google_ec_generic_graduate_match1plus_mpe,144,1
+13490516,16907924,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8644,1
+13490518,16907925,15,Paid Search,44,FinancialAidV2,A9A03595-CC50-48E0-B78D-1A22AF29FA27,ppc_google_sc_federalgrants2016_mpe,8409,1
+13490650,16908065,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,2,1
+13490650,16908066,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8657,1
+13490650,16908067,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8714,1
+13490650,16908068,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8712,1
+13490652,16908069,15,Paid Search,24,Degree,326345FC-1018-4D71-88F8-679A43AF19C8,ppc_msn_ec_health-services_cna_new-lander,2,1
+13490652,16908070,15,Paid Search,24,Degree,326345FC-1018-4D71-88F8-679A43AF19C8,ppc_msn_ec_health-services_cna_new-lander,23,1
+13490653,16908072,12,Online Partners,19,Host And Post,3BA87002-2536-4265-8A5A-7376CB6CC7D3,Agree_Media_CECO,22,1
+13490650,16908073,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,33,1
+13490651,16908074,15,Paid Search,44,FinancialAidV2,A9A03595-CC50-48E0-B78D-1A22AF29FA27,ppc_google_sc_federalgrants2016_mpe,91,1
+13490654,16908075,12,Online Partners,19,Host And Post,3BA87002-2536-4265-8A5A-7376CB6CC7D3,Agree_Media_CECO,22,1
+13490655,16908076,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8657,1
+13490658,16908077,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13490658,16908079,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8593,1
+13490986,16908411,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,23,1
+13490559,16907970,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,5286,1
+13490559,16907971,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,8593,1
+13490560,16907972,5,Traditional Display,78,Future Ads Premier,D729E837-E1AF-4807-BACA-C52830E93E2D,display_ec_futureads_display_textlink_general_girl,22,1
+13490556,16907962,5,Traditional Display,74,Campus Explorer,A43FE495-297C-4623-A4CC-D7B58B13C706,display_sc_campusexplorer_medical_mpe,8655,1
+13490556,16907963,5,Traditional Display,74,Campus Explorer,A43FE495-297C-4623-A4CC-D7B58B13C706,display_sc_campusexplorer_medical_mpe,8195,1
+13490556,16907964,5,Traditional Display,74,Campus Explorer,A43FE495-297C-4623-A4CC-D7B58B13C706,display_sc_campusexplorer_medical_mpe,8714,1
+13490557,16907965,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8657,1
+13490557,16907966,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,91,1
+13490557,16907967,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,8714,1
+13490557,16907968,15,Paid Search,28,Head Terms,155ABC8C-42F0-4C7A-B970-B470DC74A840,ppc_google_ec_generic_ht2011_clickads_mpe,23,1
+13490558,16907969,7,GDN,63,Targeted Campus,D163A890-3D85-4DA5-B2BF-0B46C1592B1F,ppcd_gdn_ec_grants_campusonly_xverify_mpe,8409,1
+13490791,16908223,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8714,1
+13490792,16908224,15,Paid Search,24,Degree,C3A08FC0-214F-420D-AFBC-8C5753F04301,ppc_google_ec_degree_cna_new_CM_mpe,8593,1
+13490792,16908225,15,Paid Search,24,Degree,C3A08FC0-214F-420D-AFBC-8C5753F04301,ppc_google_ec_degree_cna_new_CM_mpe,91,1
+13490794,16908226,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490793,16908227,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8712,1
+13490797,16908228,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,82,1
+13490798,16908229,7,GDN,63,Targeted Campus,30360ADE-1615-442B-A9B5-0189DE5DC878,ppcd_gdn_ec_grants_campusonly,8409,1
+13490799,16908230,20,Clicks,168,Clicks,C530057B-7D00-42AF-BF28-214C5A4369FF,post.degree.today_triad,8680,1
+13490802,16908231,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,82,1
+13490809,16908232,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490810,16908233,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,8644,1
+13490813,16908234,15,Paid Search,44,FinancialAidV2,5EE0751C-1843-480E-AADB-35334AA47A42,ppc_google_ec_momgrants_mpe,23,1
+13490815,16908235,15,Paid Search,24,Degree,268686C0-3701-48F1-A466-4F0255F20F4E,ppc_google_ec_degree_csi_new_mpe,8655,1
+13490562,16907975,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8649,1
+13490564,16907976,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,82,1
+13490566,16907977,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,22,1
+13490571,16907980,20,Clicks,168,Clicks,25F00876-E1E9-4647-9981-D0C5DB9D84FD,degree.today_saint_marys,269,1
+13490572,16907982,20,Clicks,168,Clicks,C530057B-7D00-42AF-BF28-214C5A4369FF,post.degree.today_triad,8680,1
+13490573,16907983,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5186,1
+13490575,16907985,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13490577,16907986,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,8409,1
+13490578,16907987,5,Traditional Display,74,Campus Explorer,DA8FB2F5-0731-4782-8600-8EAE0E55EF60,display_emd_campusexplorer_nursing_inventorycheck_mpe,2,1
+13490578,16907988,5,Traditional Display,74,Campus Explorer,DA8FB2F5-0731-4782-8600-8EAE0E55EF60,display_emd_campusexplorer_nursing_inventorycheck_mpe,8593,1
+13490581,16907989,12,Online Partners,19,Host And Post,3BA87002-2536-4265-8A5A-7376CB6CC7D3,Agree_Media_CECO,22,1
+13490582,16907990,15,Paid Search,44,FinancialAidV2,FC911E35-7834-49D7-A5F2-B35D671603B6,ppc_google_ec_newfinaid_federal_nochat,22,1
+13491099,16908497,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13491099,16908498,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13491102,16908499,15,Paid Search,24,Degree,1060B51F-924C-404F-A9B0-94102087332D,ppc_google_ec_degree_cna_new_loan,8593,1
+13491103,16908500,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13491104,16908501,15,Paid Search,24,Degree,0E1862D3-812D-4AFD-9E15-75BBD6A9E666,ppc_google_microsite_bno_lpn_mpe,71,1
+13491104,16908502,15,Paid Search,24,Degree,0E1862D3-812D-4AFD-9E15-75BBD6A9E666,ppc_google_microsite_bno_lpn_mpe,8593,1
+13491106,16908503,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8195,1
+13491106,16908504,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,22,1
+13491107,16908506,5,Traditional Display,222,MediaAlpha,DA485ACC-2483-4D48-8A7F-1AD40A6D67C0,display_ftc_mediaalpha_DMS_NM_medbilling_elder_mpe,8593,1
+13491109,16908507,15,Paid Search,24,Degree,326345FC-1018-4D71-88F8-679A43AF19C8,ppc_msn_ec_health-services_cna_new-lander,8593,1
+13491110,16908508,20,Clicks,168,Clicks,9E061C0C-414B-4DF3-AC89-2242C5F99D5B,post.degree.today_Renuant,8680,1
+13491112,16908509,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13491113,16908510,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,82,1
+13491114,16908511,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,71,1
+13491118,16908512,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13491119,16908513,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,8629,1
+13490582,16907992,15,Paid Search,44,FinancialAidV2,FC911E35-7834-49D7-A5F2-B35D671603B6,ppc_google_ec_newfinaid_federal_nochat,8593,1
+13490583,16907993,12,Online Partners,19,Host And Post,3BA87002-2536-4265-8A5A-7376CB6CC7D3,Agree_Media_CECO,22,1
+13490584,16907994,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13490601,16908013,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,22,1
+13490603,16908015,15,Paid Search,217,Exclusive Prime,49DC1BCD-0563-425B-A91F-FE84589968DE,ppc_google_microsite_FTC_exclusiveprime_PurdueGlobal_xverify,8657,1
+13490604,16908016,15,Paid Search,44,FinancialAidV2,9C54CC13-1AFB-481A-ACBE-9F4690927406,ppc_google_ec_singlemomgrant_mpe,8568,1
+13490606,16908017,5,Traditional Display,78,Future Ads Premier,B345DE8C-238C-4C80-A1B6-8A17132FDE1E,display_ec_futureads_display_lightbox_testimonial,91,1
+13490607,16908019,5,Traditional Display,78,Future Ads Premier,E4DDD74B-102D-487F-9293-B20D18481B59,display_ec_futureads_display_lightbox_psychology_segment,8714,1
+13490609,16908020,15,Paid Search,24,Degree,AB448737-E987-49A0-B0CA-6486C8ACA1BD,ppc_google_microsite_bno_lpn_mpe_test,8409,1
+13490610,16908021,7,GDN,63,Targeted Campus,BC5211D2-1300-4540-9F2F-35058EB23CDE,ppcd_gdn_ec_targetcampus_rsp_mpe,8409,1
+13490612,16908022,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,71,1
+13490612,16908023,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,8649,1
+13490612,16908024,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,2,1
+13490614,16908025,5,Traditional Display,74,Campus Explorer,E6E02928-54DE-4856-807D-6C8323DEF329,display_ec_campusexplorer_healthcare_california_mpe,22,1
+13490614,16908026,5,Traditional Display,74,Campus Explorer,E6E02928-54DE-4856-807D-6C8323DEF329,display_ec_campusexplorer_healthcare_california_mpe,8568,1
+13490614,16908027,5,Traditional Display,74,Campus Explorer,E6E02928-54DE-4856-807D-6C8323DEF329,display_ec_campusexplorer_healthcare_california_mpe,8568,1
+13491014,16908441,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8202,1
+13491018,16908442,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8657,1
+13491022,16908443,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,82,1
+13491025,16908444,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,22,1
+13491025,16908446,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8593,1
+13490730,16908152,15,Paid Search,24,Degree,953324B4-7555-4A3D-8C8D-3DC32FED0D3D,ppc_google_ec_degree_education_teaching_match1plus_mpe,8409,1
+13490731,16908154,16,SEO,220,EL SEO,F225C16D-5469-4877-BA17-6D79F9944EDB,eL SEO Default,71,1
+13490731,16908155,16,SEO,220,EL SEO,F225C16D-5469-4877-BA17-6D79F9944EDB,eL SEO Default,2,1
+13490731,16908156,16,SEO,220,EL SEO,F225C16D-5469-4877-BA17-6D79F9944EDB,eL SEO Default,91,1
+13490732,16908157,12,Online Partners,20,Job Board,148CDA62-B1A5-46C8-AA3A-E4739C704897,Brightfire Online,23,1
+13490733,16908158,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490734,16908159,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,8714,1
+13490734,16908161,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,8629,1
+13490736,16908162,15,Paid Search,28,Head Terms,C665917F-32A9-4444-B5A9-8AC66F5D6E79,ppc_google_ec_generic_ht2011_noclicksads_oct2016,8644,1
+13490737,16908163,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490739,16908165,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490740,16908166,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490745,16908167,5,Traditional Display,225,Quinst Premier,1F5974F6-5A93-41E3-9B8A-1E8C2DA48F86,display_emd_quinst_psych_tier1_mpe,23,1
+13490747,16908169,15,Paid Search,28,Head Terms,33D3378C-090D-4F51-B8E1-86B47E47489A,ppc_msn_ec_generic_headterm_remarketing,8657,1
+13490775,16908203,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,8712,1
+13490778,16908205,15,Paid Search,28,Head Terms,BC19E9DE-88E0-4489-8E71-ABB88A3473F1,ppc_google_ec_generic_ht2011_clickads,8657,1
+13490778,16908210,15,Paid Search,28,Head Terms,BC19E9DE-88E0-4489-8E71-ABB88A3473F1,ppc_google_ec_generic_ht2011_clickads,8252,1
+13490897,16908308,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490901,16908310,20,Clicks,168,Clicks,24DD93CB-EFBA-4DFF-B23D-850C26585C0D,degree.today_cbu,2836,1
+13490902,16908311,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,22,1
+13490902,16908313,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8593,1
+13490902,16908314,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8593,1
+13490905,16908315,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,5345,1
+13490906,16908316,20,Clicks,168,Clicks,24DD93CB-EFBA-4DFF-B23D-850C26585C0D,degree.today_cbu,2836,1
+13490907,16908317,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5345,1
+13490908,16908318,15,Paid Search,28,Head Terms,54716943-5C82-4390-A422-4723A4B450D3,ppc_google_emd_emdmajor_ht2015_mpe,23,1
+13490908,16908319,15,Paid Search,28,Head Terms,54716943-5C82-4390-A422-4723A4B450D3,ppc_google_emd_emdmajor_ht2015_mpe,8657,1
+13490908,16908320,15,Paid Search,28,Head Terms,54716943-5C82-4390-A422-4723A4B450D3,ppc_google_emd_emdmajor_ht2015_mpe,8195,1
+13490908,16908321,15,Paid Search,28,Head Terms,54716943-5C82-4390-A422-4723A4B450D3,ppc_google_emd_emdmajor_ht2015_mpe,91,1
+13490909,16908322,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,8195,1
+13490910,16908323,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,8593,1
+13490911,16908324,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,5345,1
+13490917,16908325,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5345,1
+13490918,16908326,15,Paid Search,217,Exclusive Prime,ACF05452-B45A-4A44-9199-2CAFC54B9C9D,ppc_google_microsite_FTC_exclusiveprime_ashford,91,1
+13490919,16908327,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490921,16908328,15,Paid Search,53,General New,8DF0D8AB-C4CE-4CB8-8D04-80FB32DCA1E8,ppc_msn_ec_generic_generic_partner_mpe,8593,1
+13490936,16908346,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,91,1
+13490939,16908347,15,Paid Search,217,Exclusive Prime,DBDC5684-D243-4468-AE4F-2F4C74BD1E97,ppc_msn_microsites_FTC_exclusiveprime_snhu,132,1
+13490937,16908349,5,Traditional Display,78,Future Ads Premier,CDA9EE8C-DD38-40DB-ABD0-D4D409F8E2DD,display_ec_futureads_display_premier_expensive_2017,8679,1
+13490937,16908350,5,Traditional Display,78,Future Ads Premier,CDA9EE8C-DD38-40DB-ABD0-D4D409F8E2DD,display_ec_futureads_display_premier_expensive_2017,91,1
+13490941,16908351,5,Traditional Display,225,Quinst Premier,085BD4A9-4E79-4336-9BFC-79EDAA29C7E9,display_ec_quinst_tech_tier1_mpe,8729,1
+13490941,16908352,5,Traditional Display,225,Quinst Premier,085BD4A9-4E79-4336-9BFC-79EDAA29C7E9,display_ec_quinst_tech_tier1_mpe,2,1
+13490941,16908354,5,Traditional Display,225,Quinst Premier,085BD4A9-4E79-4336-9BFC-79EDAA29C7E9,display_ec_quinst_tech_tier1_mpe,8568,1
+13490941,16908358,5,Traditional Display,225,Quinst Premier,085BD4A9-4E79-4336-9BFC-79EDAA29C7E9,display_ec_quinst_tech_tier1_mpe,8195,1
+13490941,16908359,5,Traditional Display,225,Quinst Premier,085BD4A9-4E79-4336-9BFC-79EDAA29C7E9,display_ec_quinst_tech_tier1_mpe,91,1
+13490781,16908211,15,Paid Search,45,GradSchools,6AD657AD-3AA2-4EAB-9FA2-4F1E83FC1ADE,ppc_google_gs_doctorate_MPE_desired,23,1
+13490777,16908212,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,91,1
+13490783,16908213,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490780,16908214,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,4004,1
+13490784,16908215,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8655,1
+13490784,16908216,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,23,1
+13490784,16908218,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8593,1
+13490785,16908219,15,Paid Search,24,Degree,AB448737-E987-49A0-B0CA-6486C8ACA1BD,ppc_google_microsite_bno_lpn_mpe_test,8409,1
+13490791,16908220,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,8657,1
+13490791,16908221,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,91,1
+13490791,16908222,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,23,1
+13490942,16908360,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,5345,1
+13490956,16908379,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,23,1
+13490956,16908381,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8593,1
+13490957,16908382,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5123,1
+13490958,16908383,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490959,16908384,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490960,16908385,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,8697,1
+13490956,16908386,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,91,1
+13490961,16908387,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5345,1
+13490964,16908388,5,Traditional Display,222,MediaAlpha,259B9F0D-EDC5-478E-9900-F22B4D668C5C,display_ec_mediaalpha_DMS_TY_psych_mpe,8714,1
+13490964,16908389,5,Traditional Display,222,MediaAlpha,259B9F0D-EDC5-478E-9900-F22B4D668C5C,display_ec_mediaalpha_DMS_TY_psych_mpe,23,1
+13490964,16908391,5,Traditional Display,222,MediaAlpha,259B9F0D-EDC5-478E-9900-F22B4D668C5C,display_ec_mediaalpha_DMS_TY_psych_mpe,8593,1
+13490965,16908392,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,8698,1
+13490972,16908394,15,Paid Search,202,Military College,6A5C78CC-0DCE-4ACC-9EA5-8CF29C73B10B,ppc_google_microsite_militarycollege_mpe,8252,1
+13490973,16908395,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8655,1
+13490977,16908398,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,8593,1
+13490991,16908418,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,5343,1
+13490991,16908419,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,22,1
+13490991,16908420,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8714,1
+13490991,16908421,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,91,1
+13490988,16908422,15,Paid Search,165,Degree Premier,CDB056EE-367E-4EA3-A15B-DDBE4D0A5577,ppc_google_ec_degree_socialwork_match1plus_mpe,91,1
+13490993,16908425,15,Paid Search,169,General New Kaplan Allow,0FCBD1B7-899F-427B-883C-929D909FACDC,ppc_google_ec_generic_general_new_sitelink,144,1
+13490993,16908426,15,Paid Search,169,General New Kaplan Allow,0FCBD1B7-899F-427B-883C-929D909FACDC,ppc_google_ec_generic_general_new_sitelink,8655,1
+13491005,16908427,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,8593,1
+13491006,16908428,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8644,1
+13491005,16908429,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,82,1
+13491007,16908430,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,5079,1
+13491011,16908431,15,Paid Search,24,Degree,9A278010-0715-4574-A730-6F23DA1ED68F,ppc_google_ec_degree_education_teaching_match1plus,2,1
+13491011,16908432,15,Paid Search,24,Degree,9A278010-0715-4574-A730-6F23DA1ED68F,ppc_google_ec_degree_education_teaching_match1plus,8195,1
+13491013,16908433,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8593,1
+13491014,16908434,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,23,1
+13491014,16908436,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8593,1
+13491009,16908437,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,91,1
+13491015,16908438,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8195,1
+13491015,16908439,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,71,1
+13491015,16908440,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,2,1
+13490521,16907927,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5186,1
+13490522,16907928,5,Traditional Display,5,Future Ads PPV,D7E3849A-5F58-4BAD-BE5A-71E55840125A,display_ec_futureads_display_ER_terminated,8593,1
+13490520,16907930,15,Paid Search,166,FinancialAid Premier,C197AF00-186F-4C5B-BFCA-2C88A762021A,ppc_google_ec_newfinaid_gfm_RLSA,8657,1
+13490520,16907931,15,Paid Search,166,FinancialAid Premier,C197AF00-186F-4C5B-BFCA-2C88A762021A,ppc_google_ec_newfinaid_gfm_RLSA,8655,1
+13490524,16907932,15,Paid Search,169,General New Kaplan Allow,4B43882A-CAB1-4C34-A5CC-D979CC7301F9,ppc_google_ec_generic_general_new_certificate_mpe,8252,1
+13490527,16907933,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,148,0
+13490526,16907934,15,Paid Search,28,Head Terms,30CE4EFF-DF1F-43AE-8D0E-581D8AC7F3B0,ppc_google_ec_generic_ht2011_mpe_noclicksads_oct2016,100,1
+13490530,16907935,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13490529,16907936,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8195,1
+13490533,16907937,15,Paid Search,166,FinancialAid Premier,C7D3975D-2B38-4F20-A74A-5E0D4149ACB0,ppc_google_el_Mom_scholarship,8409,1
+13490534,16907938,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8657,1
+13490534,16907939,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,8712,1
+13490538,16907941,20,Clicks,168,Clicks,6DAB013F-7846-4C99-B6B7-31D161FE4D8A,degree.today.libertyonline,33,1
+13490539,16907942,20,Clicks,168,Clicks,622A2E63-34E5-4110-8596-7892A81EE002,degree.today_ocu_branded,237,1
+13490542,16907943,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8097,1
+13490981,16908400,15,Paid Search,24,Degree,1DD06C73-765C-4560-997B-792548EC26C7,ppc_google_ec_degree_cna_sitelinkassist,8593,1
+13490981,16908401,15,Paid Search,24,Degree,1DD06C73-765C-4560-997B-792548EC26C7,ppc_google_ec_degree_cna_sitelinkassist,8593,1
+13490982,16908402,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,8593,1
+13490973,16908403,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8195,1
+13490983,16908404,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,2,1
+13490983,16908405,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,23,1
+13490983,16908407,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8593,1
+13490983,16908409,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,91,1
+13490985,16908410,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490986,16908413,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,8593,1
+13490988,16908414,15,Paid Search,165,Degree Premier,CDB056EE-367E-4EA3-A15B-DDBE4D0A5577,ppc_google_ec_degree_socialwork_match1plus_mpe,8657,1
+13490988,16908415,15,Paid Search,165,Degree Premier,CDB056EE-367E-4EA3-A15B-DDBE4D0A5577,ppc_google_ec_degree_socialwork_match1plus_mpe,8655,1
+13491060,16908470,15,Paid Search,174,Head Terms Partner,EC57FAE4-B409-4F6E-8F7A-A55D1A19DC29,ppc_google_ec_generic_headterm_withpartner_mpe,2,1
+13491062,16908471,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8593,1
+13491063,16908472,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,8593,1
+13491068,16908473,15,Paid Search,165,Degree Premier,8CB6128F-6BA1-4FDC-8B8D-BE0BB5C2E9D8,ppc_google_ec_degree_accounting_mpe,8657,1
+13491075,16908475,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,5123,1
+13491075,16908477,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,8593,1
+13490816,16908237,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490818,16908238,15,Paid Search,24,Degree,D9205F78-3F4E-4BF1-9661-DDCAD086BAB9,ppc_google_el_earlyeducation_search_mpe,8657,1
+13490819,16908239,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,100,1
+13490821,16908240,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490822,16908241,5,Traditional Display,74,Campus Explorer,EAFABEFE-CE75-4FFC-B8C1-FA267C0CE52A,display_el_campusexplorer_medical,8547,1
+13490823,16908242,15,Paid Search,24,Degree,FCFCF325-72AB-49C6-A9F6-9C02B1B6E819,ppc_google_ec_degree_medassist_mpe,8643,1
+13490825,16908243,12,Online Partners,110,Best Online Universities,EFE21D11-3855-4B2B-9893-2A4C79C646BB,NursingAssistantGuides.com Directory - Jimmy Atkinson,8421,0
+13490828,16908244,5,Traditional Display,78,Future Ads Premier,545D8BD5-9A72-4B4B-B751-F0182031F75C,display_ec_futureads_display_premier_expensive_bird,91,1
+13490828,16908245,5,Traditional Display,78,Future Ads Premier,545D8BD5-9A72-4B4B-B751-F0182031F75C,display_ec_futureads_display_premier_expensive_bird,23,1
+13490832,16908248,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,23,1
+13490832,16908249,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8655,1
+13490829,16908250,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8195,1
+13490833,16908251,15,Paid Search,24,Degree,AB448737-E987-49A0-B0CA-6486C8ACA1BD,ppc_google_microsite_bno_lpn_mpe_test,8409,1
+13491029,16908458,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8712,1
+13491029,16908459,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8655,1
+13491039,16908460,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490838,16908252,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,23,1
+13490838,16908254,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8593,1
+13490841,16908255,5,Traditional Display,222,MediaAlpha,0854EF18-DA81-434B-992A-535664D4585A,display_ec_mediaalpha_DMS_NM_education_mpe,8714,1
+13490845,16908258,20,Clicks,168,Clicks,C9B64631-B820-4F31-B333-EE4012E7A20F,PG degree.today,8657,1
+13490846,16908259,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,23,1
+13490847,16908261,5,Traditional Display,225,Quinst Premier,1F5974F6-5A93-41E3-9B8A-1E8C2DA48F86,display_emd_quinst_psych_tier1_mpe,8568,1
+13490848,16908262,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,8714,1
+13490848,16908263,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,23,1
+13490848,16908265,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,8593,1
+13490849,16908266,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490848,16908267,5,Traditional Display,222,MediaAlpha,201A8427-82DC-4B85-9DFF-5BBC6F4B572E,display_ec_mediaalpha_USA_TY_crimj_mpe,91,1
+13490850,16908268,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,91,1
+13490852,16908269,5,Traditional Display,225,Quinst Premier,1FAC5C9B-A6C8-476C-B151-AB7C4215AF9A,display_ec_quinst_G2018_tier1_mpe,8409,1
+13490854,16908270,15,Paid Search,24,Degree,C5B58555-BC50-4FA9-BCDD-88D514CBCBDB,ppc_google_ec_degree_computer_science_mpe,5029,1
+13490854,16908271,15,Paid Search,24,Degree,C5B58555-BC50-4FA9-BCDD-88D514CBCBDB,ppc_google_ec_degree_computer_science_mpe,2,1
+13490854,16908272,15,Paid Search,24,Degree,C5B58555-BC50-4FA9-BCDD-88D514CBCBDB,ppc_google_ec_degree_computer_science_mpe,71,1
+13490858,16908273,15,Paid Search,82,GradLevel,84FF8497-2E66-43E9-ADB6-EB34DF11F374,ppc_google_ec_generic_doctorate,8409,1
+13490861,16908274,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13490861,16908275,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8593,1
+13490862,16908276,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8655,1
+13490864,16908278,15,Paid Search,44,FinancialAidV2,6CF389AD-A5B9-42B8-85AD-9FF3D678A46D,ppc_msn_ec_grants_grants_women,22,1
+13490864,16908280,15,Paid Search,44,FinancialAidV2,6CF389AD-A5B9-42B8-85AD-9FF3D678A46D,ppc_msn_ec_grants_grants_women,8593,1
+13490855,16908281,15,Paid Search,44,FinancialAidV2,BCCE9F41-135A-49B9-861C-92F9AEEF7150,ppc_google_ec_newfinaid_federal_nochat_RLSA,8657,1
+13490861,16908282,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,2,1
+13490865,16908283,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490869,16908284,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,23,1
+13490869,16908285,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,8593,1
+13490871,16908286,15,Paid Search,24,Degree,D503DE4F-BCE6-44E5-A6DA-46D0AC650D2A,ppc_google_ec_degree_cna_new_loan_test,8593,1
+13490582,16907995,15,Paid Search,44,FinancialAidV2,FC911E35-7834-49D7-A5F2-B35D671603B6,ppc_google_ec_newfinaid_federal_nochat,91,1
+13490585,16907996,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,8657,1
+13490589,16907997,15,Paid Search,217,Exclusive Prime,B5468621-232D-452C-8809-D34A9C99DCC7,ppc_google_microsite_FTC_exclusiveprime_PurdueGlobal,8657,1
+13490590,16907998,12,Online Partners,20,Job Board,5D01F0F8-36B0-46DB-8756-0919A31948CB,DMS Online,8097,1
+13490591,16907999,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,22,1
+13490591,16908001,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8593,1
+13490592,16908002,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490593,16908003,20,Clicks,168,Clicks,0E9CA843-2F38-4D8C-A053-74BED855AA8D,post.degree.today_CDN,8680,1
+13490595,16908004,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,22,1
+13490595,16908005,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,8657,1
+13490595,16908006,9,DRTV & Video Ads,39,DRTV & Video Ads,1DB1CD60-FFB3-4940-BEEF-7F0C280ADE71,DRTV sm3 7.23.18 WSM 11.6.18,91,1
+13490598,16908008,15,Paid Search,169,General New Kaplan Allow,3B5C533A-DA71-4373-84B6-DA06D7060B89,ppc_google_el_generic_newpixel,8593,1
+13490599,16908009,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,8657,1
+13490599,16908010,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,91,1
+13490601,16908012,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,8655,1
+13490615,16908028,11,Internal Email,41,Internal Email,6646F13B-8617-421E-BA52-FB3993058C1C,IEM_GS_PostUp_Free_Desire,8593,1
+13490618,16908029,20,Clicks,168,Clicks,C530057B-7D00-42AF-BF28-214C5A4369FF,post.degree.today_triad,8680,1
+13490617,16908030,5,Traditional Display,74,Campus Explorer,DA93387D-E605-4F1A-841A-B7BFF75C1802,display_el_campusexplorer_medical_mpe,8714,1
+13490619,16908031,11,Internal Email,41,Internal Email,6E11C238-3011-484B-8FB3-79C00AB0C642,IEM_EC_PostUp_RT,5079,1
+13490620,16908033,15,Paid Search,217,Exclusive Prime,96EC5225-9705-4F12-AEDA-B8172507FE13,ppc_google_CEO_exclusiveprime_Religion_OCU,237,1
+13490622,16908034,7,GDN,63,Targeted Campus,30360ADE-1615-442B-A9B5-0189DE5DC878,ppcd_gdn_ec_grants_campusonly,22,1
+13490623,16908035,20,Clicks,168,Clicks,9E061C0C-414B-4DF3-AC89-2242C5F99D5B,post.degree.today_Renuant,8680,1
+13490624,16908036,15,Paid Search,44,FinancialAidV2,FC911E35-7834-49D7-A5F2-B35D671603B6,ppc_google_ec_newfinaid_federal_nochat,23,1
+13490626,16908037,5,Traditional Display,206,QuinSt Tier 1,ECC96A54-E569-4379-B204-07248FBBD879,display_ec_quinst_G2018_tier4_mpe,8568,1
+13490626,16908038,5,Traditional Display,206,QuinSt Tier 1,ECC96A54-E569-4379-B204-07248FBBD879,display_ec_quinst_G2018_tier4_mpe,8195,1
+13490626,16908039,5,Traditional Display,206,QuinSt Tier 1,ECC96A54-E569-4379-B204-07248FBBD879,display_ec_quinst_G2018_tier4_mpe,8655,1
+13490625,16908040,15,Paid Search,44,FinancialAidV2,117793E1-A601-47FF-ACDF-DA59F1F81A2E,ppc_google_ec_newfinaid_loan_mpe,91,1
+13490630,16908041,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,2,1
+13490630,16908042,15,Paid Search,22,Branded,5D88DB77-A2DA-4535-96D8-999E5C143A5D,ppc_google_ec_branded_xveriy,8657,1
+13490872,16908287,7,GDN,11,Remarketing,DAA9783C-79F1-4930-B374-90823FFDD0A9,ppcd_gdn_ec_med_billing_coding_remarketing,8409,1
+13490873,16908288,15,Paid Search,44,FinancialAidV2,6CD7FA49-3EA9-4A2F-A58E-2D903968C38C,ppc_google_ec_newfinaid_federal_mpe,8409,1
+13490875,16908289,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,8698,1
+13490877,16908290,15,Paid Search,217,Exclusive Prime,4E57C7A3-2532-4106-A898-5F70AEAEC595,ppc_google_microsite_FTC_exclusiveprime_Kaplan,125,1
+13490879,16908291,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8655,1
+13490879,16908293,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8593,1
+13490881,16908294,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,71,1
+13490881,16908295,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,57,1
+13490881,16908296,15,Paid Search,45,GradSchools,4F7B1F01-4928-4A4C-BAC7-93173885A634,ppc_google_gs_doctorate_desired,8649,1
+13490888,16908298,20,Clicks,168,Clicks,C9B64631-B820-4F31-B333-EE4012E7A20F,PG degree.today,8657,1
+13490889,16908299,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490891,16908300,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490892,16908301,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490894,16908305,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5186,1
+13490895,16908306,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5345,1
+13490896,16908307,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,5345,1
+13490632,16908044,20,Clicks,168,Clicks,9E061C0C-414B-4DF3-AC89-2242C5F99D5B,post.degree.today_Renuant,8680,1
+13490633,16908045,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5123,1
+13490631,16908047,5,Traditional Display,225,Quinst Premier,1BEB55BD-32F8-4DA5-BB9B-31F7836F998A,display_ec_quinst_General_CA_tier1_mpe,91,1
+13490635,16908048,12,Online Partners,20,Job Board,148CDA62-B1A5-46C8-AA3A-E4739C704897,Brightfire Online,23,1
+13490636,16908049,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,23,1
+13490636,16908050,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8655,1
+13490637,16908051,15,Paid Search,44,FinancialAidV2,9ACCDD77-6F27-4903-B125-26C22A2CD3BE,ppc_google_ec_newfinaid_grants,8409,1
+13490639,16908052,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8655,1
+13490639,16908053,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8593,1
+13490641,16908054,7,GDN,63,Targeted Campus,C4D199A8-8899-4DF9-BB14-48B7618FFDA3,ppcd_gdn_ec_grants_campusonly_mpe,22,1
+13490642,16908055,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8655,1
+13490644,16908058,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,8692,1
+13490645,16908059,15,Paid Search,45,GradSchools,9F50864D-6F75-418D-BC06-4EF0987559A4,ppc_msn_gs_doctorate,8487,1
+13490645,16908060,15,Paid Search,45,GradSchools,9F50864D-6F75-418D-BC06-4EF0987559A4,ppc_msn_gs_doctorate,71,1
+13490645,16908061,15,Paid Search,45,GradSchools,9F50864D-6F75-418D-BC06-4EF0987559A4,ppc_msn_gs_doctorate,8625,1
+13490646,16908062,15,Paid Search,44,FinancialAidV2,27F36443-6F58-4D4E-8053-855F9DB02D9F,ppc_google_ec_newfinaid_gfw_mpe,23,1
+13490647,16908064,5,Traditional Display,74,Campus Explorer,88D24F89-C00F-422B-862B-E19E92037176,display_el_campusexplorer_psychology_mpe,8649,1
+13491031,16908448,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,23,1
+13491032,16908450,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8195,1
+13491032,16908451,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,23,1
+13491032,16908452,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,8593,1
+13491034,16908453,20,Clicks,168,Clicks,622A2E63-34E5-4110-8596-7892A81EE002,degree.today_ocu_branded,237,1
+13491027,16908454,5,Traditional Display,74,Campus Explorer,97821C21-7DD0-44C0-9A8E-1865EC64882B,display_bano_campusexplorer_cna_mpe,8657,1
+13491031,16908455,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,8712,1
+13491032,16908456,15,Paid Search,24,Degree,F4E91727-74AD-48CB-9C14-EFF9CE42B6BF,ppc_google_ec_degree_cna_new_loan_mpe_test,5286,1
+13490661,16908081,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8655,1
+13490662,16908083,5,Traditional Display,222,MediaAlpha,97778EA4-DA15-4F72-9C02-F28EE6836014,display_ec_mediaalpha_USA_TY_education_mpe,8714,1
+13490663,16908085,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,8697,1
+13490664,16908086,12,Online Partners,126,Jobcase H&P,ACC8EE78-9521-4806-B5F0-6F8D377A1939,Link out,8593,1
+13490665,16908087,15,Paid Search,217,Exclusive Prime,8E2B8BAE-7790-4162-B408-27F5A0F8E4E1,ppc_google_microsite_FTC_exclusiveprime_snhu,132,1
+13490662,16908088,5,Traditional Display,222,MediaAlpha,97778EA4-DA15-4F72-9C02-F28EE6836014,display_ec_mediaalpha_USA_TY_education_mpe,91,1
+13490667,16908089,12,Online Partners,20,Job Board,32197DCF-18D3-4014-9B78-8271071BCF6C,Quin Online Partners,8697,1
+13490670,16908091,7,GDN,7,Degree,076EA483-F639-4B5B-A0FF-A54C176AFC31,ppcd_gdn_ec_education_txt_mpe,8195,1
+13490668,16908092,5,Traditional Display,225,Quinst Premier,1FAC5C9B-A6C8-476C-B151-AB7C4215AF9A,display_ec_quinst_G2018_tier1_mpe,8195,1
+13490672,16908094,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,23,1
+13490672,16908095,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8568,1
+13490673,16908096,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490675,16908097,12,Online Partners,126,Jobcase H&P,62ED5806-45CC-4A84-B16C-0F0609029442,Jobcase Campus API,5186,1
+13490676,16908098,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490672,16908099,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8657,1
+13490677,16908100,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,91,1
+13490677,16908101,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,8657,1
+13490678,16908102,20,Clicks,168,Clicks,622A2E63-34E5-4110-8596-7892A81EE002,degree.today_ocu_branded,237,1
+13491446,16908826,8,Call Center Partners,93,LowCostvendor,0B5E30FF-2EB7-41F0-9426-C9658A2C8F39,Noble Voice Tier 3,23,1
+13491448,16908827,3,Internal Transfer Agreements,118,Job Board – All,D83CE835-E012-464F-8C4D-8F2F732DE398,Brightfire Warm Transfer,8655,1
+13491448,16908828,3,Internal Transfer Agreements,118,Job Board – All,D83CE835-E012-464F-8C4D-8F2F732DE398,Brightfire Warm Transfer,7996,1
+13491449,16908829,8,Call Center Partners,14,Job Board - All,CE9BC209-B920-4FB3-A3D0-4F278362A0EA,Call Center ProvideTier3,8712,1
+13491454,16908830,15,Paid Search,28,Head Terms,FCCB8784-4B51-49F5-B0DC-68CD641556FA,ppc_google_ec_generic_ht2011_short_citizen_question,91,1
+13490682,16908104,20,Clicks,168,Clicks,9E061C0C-414B-4DF3-AC89-2242C5F99D5B,post.degree.today_Renuant,8680,1
+13490685,16908106,15,Paid Search,24,Degree,8F58D38E-0C57-4646-B51F-B05D0F1F68FE,ppc_google_ec_degree_police_loantest_eta_mpe,8655,1
+13490689,16908109,12,Online Partners,20,Job Board,4906CC9E-4CC0-49B7-92B7-D281F233232A,Tier 3,23,1
+13490692,16908110,5,Traditional Display,225,Quinst Premier,48CCCDB0-87A7-42D0-BFD5-95042A816AA2,display_ec_quinst_General_CA_tier1,8409,1
+13490695,16908112,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,2,1
+13490696,16908113,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,22,1
+13490699,16908116,12,Online Partners,20,Job Board,722C635C-04E9-4B85-AE03-1BB98945747E,ClassesUSACAMPUS,8625,1
+13491459,16908838,8,Call Center Partners,14,Job Board - All,60C61465-F427-4F8C-9A5E-721B5A5BF57B,AC Media Coral Springs - API,5106,1
+13491460,16908839,3,Internal Transfer Agreements,118,Job Board – All,D83CE835-E012-464F-8C4D-8F2F732DE398,Brightfire Warm Transfer,5123,1
+13491461,16908840,8,Call Center Partners,14,Job Board - All,D668BEC0-624A-48AA-BF6A-241321F8E196,Inside Academics CC ECS,8692,1
+13490700,16908117,5,Traditional Display,78,Future Ads Premier,F6C60D7B-D91E-4E1D-9D18-645F49D75A3F,display_ec_futureads_display_onlinecollege_night,5106,1
+13491466,16908843,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,155,1
+13491466,16908844,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,22,1
+13490701,16908118,15,Paid Search,24,Degree,DE2BEE8F-3BA6-46D3-BA7A-F1EBD77928B0,ppc_google_microsite_bno_lvn_mpe_test,8409,1
+13490704,16908119,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8649,1
+13490704,16908120,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8657,1
+13490704,16908121,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,8714,1
+13490704,16908122,15,Paid Search,28,Head Terms,61FC0C2A-33E6-439A-9B7F-1C4119B6936A,ppc_google_ec_generic_ht2011_main_mpe_s4,22,1
+13490706,16908123,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8649,1
+13490706,16908124,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8657,1
+13490706,16908125,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,91,1
+13490706,16908126,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8714,1
+13491480,16908856,15,Paid Search,22,Branded,15529311-A748-4E2A-A17B-D2B209CB4BFF,ppc_google_ec_branded_xveriy_2018,23,1
+13490707,16908127,15,Paid Search,165,Degree Premier,340FE77F-ABF4-4B3B-9386-EF3D112A0463,ppc_google_ec_degree_counseling_match1plus,8657,1
+13490707,16908128,15,Paid Search,165,Degree Premier,340FE77F-ABF4-4B3B-9386-EF3D112A0463,ppc_google_ec_degree_counseling_match1plus,23,1
+13490707,16908130,15,Paid Search,165,Degree Premier,340FE77F-ABF4-4B3B-9386-EF3D112A0463,ppc_google_ec_degree_counseling_match1plus,8568,1
+13490706,16908131,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8679,1
+13490706,16908132,15,Paid Search,28,Head Terms,22E37B91-D892-4BF2-904E-2BD70591EB89,ppc_google_ec_generic_headterm_customermatch_mpe,8252,1
+13490708,16908133,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490713,16908138,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13491468,16908865,8,Call Center Partners,16,Non-Job Board - All,7341DE3D-7608-4540-A53B-9781435472F7,Clickspark CC ECS,71,1
+13490718,16908141,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,2,1
+13490718,16908142,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,23,1
+13490718,16908143,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,8657,1
+13490718,16908144,16,SEO,46,SEO,8E43C61A-7B96-481F-B6E3-6A71A7ABBF95,EC SEO,91,1
+13490721,16908145,12,Online Partners,20,Job Board,148CDA62-B1A5-46C8-AA3A-E4739C704897,Brightfire Online,23,1
+13490722,16908146,20,Clicks,168,Clicks,C9B64631-B820-4F31-B333-EE4012E7A20F,PG degree.today,8657,1
+13490723,16908147,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8409,1
+13490725,16908148,5,Traditional Display,225,Quinst Premier,48CCCDB0-87A7-42D0-BFD5-95042A816AA2,display_ec_quinst_General_CA_tier1,8409,1
+13491498,16908875,15,Paid Search,24,Degree,9A278010-0715-4574-A730-6F23DA1ED68F,ppc_google_ec_degree_education_teaching_match1plus,147,1
+13490726,16908149,5,Traditional Display,222,MediaAlpha,B6E5E033-AA01-4DB2-9585-9AB8A286FC56,display_ftc_mediaalpha_DMS_TY_medbilling_mpe,8714,1
+13490726,16908150,5,Traditional Display,222,MediaAlpha,B6E5E033-AA01-4DB2-9585-9AB8A286FC56,display_ftc_mediaalpha_DMS_TY_medbilling_mpe,23,1
+13490747,16908170,15,Paid Search,28,Head Terms,33D3378C-090D-4F51-B8E1-86B47E47489A,ppc_msn_ec_generic_headterm_remarketing,8712,1
+13490742,16908172,15,Paid Search,44,FinancialAidV2,E48176C5-9A40-466C-B962-AC3C22B1335C,ppc_google_ec_newfinaid_fafsa_nochat,8657,1
+13490748,16908173,15,Paid Search,47,Religion,4099B1B1-2EFC-4889-B1C9-65D06F494E97,ppc_google_ce_theology_notexclusive_mpe,2,1
+13490748,16908174,15,Paid Search,47,Religion,4099B1B1-2EFC-4889-B1C9-65D06F494E97,ppc_google_ce_theology_notexclusive_mpe,33,1
+13490748,16908175,15,Paid Search,47,Religion,4099B1B1-2EFC-4889-B1C9-65D06F494E97,ppc_google_ce_theology_notexclusive_mpe,8714,1
+13490749,16908176,5,Traditional Display,225,Quinst Premier,F74F8141-D738-4C2C-BA31-78133EAF1EB3,display_ec_quinst_nursing_general_tier1,2,1
+13491510,16908886,8,Call Center Partners,14,Job Board - All,60C61465-F427-4F8C-9A5E-721B5A5BF57B,AC Media Coral Springs - API,2,1
+13490745,16908178,5,Traditional Display,225,Quinst Premier,1F5974F6-5A93-41E3-9B8A-1E8C2DA48F86,display_emd_quinst_psych_tier1_mpe,8657,1
+13490751,16908179,12,Online Partners,110,Best Online Universities,EFE21D11-3855-4B2B-9893-2A4C79C646BB,NursingAssistantGuides.com Directory - Jimmy Atkinson,155,0
+13490751,16908180,12,Online Partners,110,Best Online Universities,EFE21D11-3855-4B2B-9893-2A4C79C646BB,NursingAssistantGuides.com Directory - Jimmy Atkinson,8252,1
+13490752,16908181,7,GDN,8,Financial Aid,F2BBC82E-5732-414F-99CC-84FC5AE0E770,ppcd_gdn_ec_finaid_rsp_mpe,8568,1
+13490752,16908182,7,GDN,8,Financial Aid,F2BBC82E-5732-414F-99CC-84FC5AE0E770,ppcd_gdn_ec_finaid_rsp_mpe,8593,1
+13490754,16908183,15,Paid Search,166,FinancialAid Premier,3A087174-A835-4B36-811F-E82963F3D203,ppc_google_ec_newfinaid_grants_mpe,8409,1
+13490755,16908185,20,Clicks,168,Clicks,F9319C4A-61B1-424A-B818-5870DE2EEAE8,post.degree.today_eddy,8680,1
+13490753,16908186,15,Paid Search,24,Degree,58468742-D861-4E89-B09C-98FAD73DB000,ppc_google_ec_degree_vocational_new,5079,1
+13490756,16908187,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490757,16908188,15,Paid Search,24,Degree,FB66708C-C187-4649-B16A-F31BAB65B923,ppc_google_microsite_bno_lpn,2,1
+13490757,16908189,15,Paid Search,24,Degree,FB66708C-C187-4649-B16A-F31BAB65B923,ppc_google_microsite_bno_lpn,71,1
+13490759,16908190,20,Clicks,168,Clicks,FCB18EE0-188F-46C2-99DC-52EB88ECFF67,post.degree.today_CUSA,8680,1
+13490758,16908191,15,Paid Search,166,FinancialAid Premier,22C49138-C0DB-447E-8990-D757C11CFAD8,ppc_google_ec_newfinaid_federal_sitelink_mpe,91,1
+13490760,16908192,15,Paid Search,44,FinancialAidV2,786B3A68-E875-4919-9CD3-6B3858C5F4F8,ppc_google_ec_newfinaid_fafsa_RLSA_mpe,23,1
+13490762,16908194,20,Clicks,211,Clicks Partners,46178860-AC5C-4174-AF88-32FB656BA352,Renuant_generalcampaign,8409,1
+13490764,16908195,20,Clicks,168,Clicks,9E061C0C-414B-4DF3-AC89-2242C5F99D5B,post.degree.today_Renuant,8680,1
+13490765,16908196,20,Clicks,168,Clicks,2EB5AEF0-FB7E-4620-9C48-9CA0E9CBC050,post.degree.today_DMS,8680,1
+13490771,16908197,15,Paid Search,24,Degree,350E5E16-CC46-4528-8FE4-39FBD1F945A6,ppc_google_ec_degree_cna_new_loan_mpe,8655,1
+13490772,16908199,5,Traditional Display,74,Campus Explorer,844A3969-3C7C-47B8-9807-B16EDB22292C,display_sc_campusexplorer_crimj_resp,23,1
+13490775,16908201,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,5471,1
+13490775,16908202,16,SEO,159,GS.com SEO,351C687F-E7A2-42F8-A3AA-31B4D4C792F2,SEO Default,8714,1
+13490922,16908329,15,Paid Search,166,FinancialAid Premier,9001F420-AA91-4345-B0F1-C316F0D43733,ppc_google_ec_newfinaid_fafsa_mpe,5345,1
+13490923,16908330,15,Paid Search,47,Religion,77EDB5EF-D80D-4B52-9B68-81C6C6139BE6,ppc_google_ce_ministry_notexclusive_mpe,8679,1
+13490923,16908331,15,Paid Search,47,Religion,77EDB5EF-D80D-4B52-9B68-81C6C6139BE6,ppc_google_ce_ministry_notexclusive_mpe,8714,1
+13490924,16908332,20,Clicks,168,Clicks,C9B64631-B820-4F31-B333-EE4012E7A20F,PG degree.today,8657,1
+13490926,16908333,15,Paid Search,52,Generic,E8595F06-9BF6-4EE5-B8D7-31645A3ADCBE,ppc_google_ec_generic_generic_new_mpe,91,1
+13490929,16908334,12,Online Partners,20,Job Board,8BA39A23-4D72-420D-B870-7A7ACCEA4399,ClassesUSAOnlineCampaign,8195,1
+13490931,16908335,15,Paid Search,44,FinancialAidV2,9C54CC13-1AFB-481A-ACBE-9F4690927406,ppc_google_ec_singlemomgrant_mpe,5345,1
